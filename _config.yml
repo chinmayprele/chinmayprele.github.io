@@ -5,3 +5,5 @@ theme: just-the-docs
 url: https://chinmayprele.github.io
 
 
+plugins:
+  - jekyll-default-layout
