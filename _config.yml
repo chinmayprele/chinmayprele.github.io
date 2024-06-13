@@ -7,3 +7,5 @@ url: https://chinmayprele.github.io
 
 plugins:
   - jekyll-default-layout
+
+color_scheme: dark  # Color scheme supports "light" (default) and "dark"
