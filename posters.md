@@ -6,6 +6,9 @@ parent: Research Products
 
 ## Posters
 
+<!-- #TAGC 2024 -->
+0. 
+0.<span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2024) [_Conservation of the Regulatory Region and the Genes they Regulate within a Network_](/assets/pdfs/posters/TAGC24_poster-rele.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
 <!-- UA - URCA 2023 -->
 0. Giunta A.A.<sup>U</sup>, Yordy J.M.<sup>U</sup>, Lawson M.E.<sup>U</sup>, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _An analysis of the rate of evolution of poly, rictor, lin-28, ImpL2, and melt genes in the Insulin/Tor Signaling Pathway of Drosophila_, Undergraduate Research and Creative Activity Conference 2023, University of Alabama
 <!-- GSA - #Dros23 2023 -->
@@ -35,4 +38,3 @@ parent: Research Products
 <!-- RUTGERS -->
 0. <span style="background-color: #70707030">**Rele C.P.**</span>, Ellison C.E.(2019) _Understanding The Evolutionary Dynamics Of Transposable Elements in Drosophila Via de novo Identification and Classification_, Aresty Research Symposium, Rutgers University  
 0. <span style="background-color: #70707030">**Rele C.P.**</span>, Ellison C.E.(2018) _Understanding Genetic Variation in the Repetitive Sequence Content of Drosophila melanogaster_, Aresty Research Symposium, Rutgers University
-{: reversed="reversed"}
