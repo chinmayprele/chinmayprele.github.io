@@ -11,5 +11,5 @@ nav_order: 3
 	- Analyzing data for the Pathways Project publications
 	- Updating and maintaining the genome browser and tools
 
-0. **ODASIS Tutor, Instructor and Quantitative GRE Instructor**, Rutgers University, New Brunswick (_2018 &rarr; 2019_)
+0. **Tutor, Instructor and Quantitative GRE Instructor**, ODASIS, Rutgers University, New Brunswick (_2018 &rarr; 2019_)
 	- Instructor and tutor for Precalculus 1 and 2, Calculus 1 and Statistics for Research
