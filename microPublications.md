@@ -10,9 +10,11 @@ has_toc: true
 # microPublications
 
 These are microPublications that have been submitted to the [microPublication journal](https://www.micropublication.org).
+Any data that is linked to associated microPublications are also hosted on NCBI within the TPA database.
 
 > microPublication.org publishes brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative. 
-Each article is peer reviewed and assigned a DOI. microPublication Biology articles are now discoverable through PMC, PubMed, EuropePMC, Google Scholar, and university library catalogs. 
+Each article is peer reviewed and assigned a DOI. 
+microPublication Biology articles are now discoverable through [PMC](https://www.ncbi.nlm.nih.gov/pmc/journals/3859/), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22MicroPubl+Biol%22%5Bjour%5D), [EuropePMC](http://europepmc.org/search?query=%28JOURNAL%3A%22Micropublication%20Biology%22%29), [Google Scholar](https://scholar.google.com/scholar?q=micropublication+biology), and university library catalogs. 
 Included data are curated and, upon publication, deposited in third party referential databases (when available).
 
 0. Congleton H<sup>U</sup>, Kiser CA<sup>U</sup>, Colom Diaz PA<sup>U</sup>, Schlichting E<sup>U</sup>, Walton DA<sup>U</sup>, Long LJ, Reed LK, Martinez-Cruzado JC, <span style="background-color: #70707030">**Rele CP**</span>. _Drosophila mojavensis - chico_. MicroPubl Biol. 2022 Nov 15;2022:10.17912/micropub.biology.000677. doi: [10.17912/micropub.biology.000677](https://doi.org/10.17912/micropub.biology.000677). PMID: [36468157](https://pubmed.ncbi.nlm.nih.gov/36468157/); PMCID: [PMC9709638](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc9709638/).
