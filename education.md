@@ -1,7 +1,7 @@
 ---
 title: Education
 layout: home
-order: 1
+order: 2
 ---
 
 
