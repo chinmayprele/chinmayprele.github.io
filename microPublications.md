@@ -11,8 +11,7 @@ has_toc: true
 
 These are microPublications that have been submitted to the [microPublication journal](https://www.micropublication.org).
 
-> {: .highlight }
-microPublication.org publishes brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative. 
+> microPublication.org publishes brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative. 
 Each article is peer reviewed and assigned a DOI. microPublication Biology articles are now discoverable through PMC, PubMed, EuropePMC, Google Scholar, and university library catalogs. 
 Included data are curated and, upon publication, deposited in third party referential databases (when available).
 
