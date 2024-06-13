@@ -4,7 +4,7 @@ layout: default
 parent: Research Products
 ---
 
-## Posters
+# Posters
 
 <!-- #TAGC 2024 -->
 0. Valentín Rodriguez L.A., **Rele C.P.**, Díaz-Lameiro A.M. (2024) [_Annotation of Thor in Drosophila albomicans: Detangling the Insulin Signaling Pathway of Drosophila_](/assets/pdfs/posters/TAGC2024-valentin-rodriguez.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
