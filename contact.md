@@ -19,6 +19,13 @@ Please feel free to contact me with questions, or if you would like some more in
   <dd><a href="https://orcid.org/0000-0002-3473-9319">0000-0002-3473-9319</a></dd>
 </dl>
 
+# External Websites
+
+<dl>
+  <dt>Reed Lab</dt>
+  <dd><a href="https://flygxe.ua.edu">flygxe.ua.edu</a></dd>
+</dl>
+
 # Contact Information
 
 <dl>
