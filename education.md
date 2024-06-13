@@ -24,9 +24,9 @@ nav_order: 2
 <dl>
 	<dt>Major</dt>
 	<dd>Genetics</dd>
-	<dt>Thesis</dt>
+	<dt>Major Thesis</dt>
 	<dd><a href="/assets/pdfs/pubs/rutgers2019_thesis-rele.pdf">Understanding the Evolutionary Dynamics of Transposable Elements in <i>Drosophila</i> Via <i>de novo</i> Identification and Classification</a></dd>
-	<dt>Advisor</dt>
+	<dt>Major Advisor</dt>
 	<dd><a href="https://ellisonlab.website">Chris E. Ellison</a></dd>
 	<dt>Minor</dt>
 	<dd>Evolutionary Anthropology</dd>
