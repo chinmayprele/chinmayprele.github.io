@@ -2,10 +2,7 @@
 title: Funding
 layout: default
 author: cprele
-toc: true
-comments: true
-mermaid: false
-pin: false
+
 nav_order: 10
 ---
 
