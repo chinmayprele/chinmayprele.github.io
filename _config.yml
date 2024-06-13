@@ -4,4 +4,4 @@ theme: just-the-docs
 
 url: https://chinmayprele.github.io
 
-# color_scheme: dark  # Color scheme supports "light" (default) and "dark"
+color_scheme: light  # Color scheme supports "light" (default) and "dark"
