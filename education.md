@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 
-# **The University of Alabama**, Tuscaloosa, AL (_Ph.D - Current_)
+## **The University of Alabama**, Tuscaloosa, AL (_Ph.D - Current_)
 
 <dl>
   <dt>Department</dt>
@@ -19,14 +19,14 @@ nav_order: 2
 </dl>
 
 
-# **Rutgers University**, New Brunswick, NJ (_BA - Cum Laude 2019_)
+## **Rutgers University**, New Brunswick, NJ (_BA - Cum Laude 2019_)
 
 <dl>
   <dt>Major</dt>
   <dd>Genetics</dd>
   <dl>
   	<dt>Thesis</dt>
-    <dd><a href="/assets/pdfs/pubs/rutgers2019_thesis-rele.pdf">Understanding the Evolutionary Dynamics of Transposable Elements in <i>Drosophila</i> Via <i>de novo</i> Identification and Classification</a>. Please note that this is very inactive.</dd>
+    <dd><a href="/assets/pdfs/pubs/rutgers2019_thesis-rele.pdf">Understanding the Evolutionary Dynamics of Transposable Elements in <i>Drosophila</i> Via <i>de novo</i> Identification and Classification</a></dd>
     <dt>Advisor</dt>
   	<dd><a href="https://ellisonlab.website">Chris E. Ellison</a></dd>
   </dl>
