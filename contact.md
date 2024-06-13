@@ -15,10 +15,20 @@ Please feel free to contact me with questions, or if you would like some more in
   <dd><a href="https://www.github.com/chinmayprele">www.github.com/chinmayprele</a></dd>
   <dt>Twitter</dt>
   <dd><a href="https://twitter.com/drosophominin">drosophominin</a>. Please note that this is very inactive.</dd>
-  <dt>Color</dt>
-  <dd>Green</dd>
+  <dt>ORCiD</dt>
+  <dd><a href="https://orcid.org/0000-0002-3473-9319">0000-0002-3473-9319</a></dd>
 </dl>
 
+# Contact Information
+
+<dl>
+  <dt>Email</dt>
+  <dd><a href="mailto:cprele@ua.edu?cc=cprele@crimson.ua.edu, rele.chinmay.gep@gmail.com&subject=Contact%20from%20GitHub%20Pages%20Website">cprele@ua.edu</a></dd>
+  <dt>Phone Number (Mob.)</dt>
+  <dd><a href="tel:19739326516">+1 (973) 932 6516</a></dd>
+  <dt>Phone Number (Work)</dt>
+  <dd><a href="tel:12053480929">+1 (205) 348 0929</a>. Please note that this is very inactive.</dd>
+</dl>
 
 # Address
 
