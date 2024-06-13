@@ -1,11 +1,9 @@
 ---
 title: Funding
 layout: default
-categories: [awards]
-tags: [awards, travel, funding]     # TAG names should always be lowercase
 author: cprele
 toc: true
-comments: false
+comments: true
 mermaid: false
 pin: false
 nav_order: 10
