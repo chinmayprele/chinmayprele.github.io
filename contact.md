@@ -24,10 +24,10 @@ Please feel free to contact me with questions, or if you would like some more in
 <dl>
   <dt>Email</dt>
   <dd><a href="mailto:cprele@ua.edu?cc=cprele@crimson.ua.edu, rele.chinmay.gep@gmail.com&subject=Contact%20from%20GitHub%20Pages%20Website">cprele@ua.edu</a></dd>
-  <dt>Phone Number (Mob.)</dt>
+  <dt>Cell Number</dt>
   <dd><a href="tel:19739326516">+1 (973) 932 6516</a></dd>
-  <dt>Phone Number (Work)</dt>
-  <dd><a href="tel:12053480929">+1 (205) 348 0929</a>. Please note that this is very inactive.</dd>
+  <dt>Office Number</dt>
+  <dd><a href="tel:12053480929">+1 (205) 348 0929</a></dd>
 </dl>
 
 # Address
