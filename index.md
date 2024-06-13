@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-order: 0
+order: 1
 ---
 
 
