@@ -6,6 +6,23 @@ nav_order: 100
 
 Please feel free to contact me with questions, or if you would like some more information about any of my projects/publications.
 
+
+<dl>
+  <dt>Name</dt>
+  <dd><a href="https://www.pokemon.com">Link Text</dd>
+  <dt>Born</dt>
+  <dd>1952</dd>
+  <dt>Birthplace</dt>
+  <dd>Japan</dd>
+  <dt>Color</dt>
+  <dd>Green</dd>
+</dl>
+
+
+# Address
+
+300 Hackberry Ln.,\\The University of Alabama,\\Tuscaloosa, AL 35487-0206
+
 <style>
   .google-maps {
     position: relative;
