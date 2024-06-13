@@ -6,22 +6,21 @@ nav_order: 100
 
 Please feel free to contact me with questions, or if you would like some more information about any of my projects/publications.
 
+# Social "Media"
 
 <dl>
-  <dt>Name</dt>
-  <dd><a href="https://www.pokemon.com">Link Text</a></dd>
-  <dt>Born</dt>
-  <dd>1952</dd>
-  <dt>Birthplace</dt>
-  <dd>Japan</dd>
+  <dt>Linkedin</dt>
+  <dd><a href="https://www.linkedin.com/in/cpr/">linkedin.com/in/cpr/</a></dd>
+  <dt>GitHub</dt>
+  <dd><a href="https://www.github.com/chinmayprele">www.github.com/chinmayprele</a></dd>
+  <dt>Twitter</dt>
+  <dd><a href="https://twitter.com/drosophominin">drosophominin</a>. Please note that this is very inactive.</dd>
   <dt>Color</dt>
   <dd>Green</dd>
 </dl>
 
 
 # Address
-
-300 Hackberry Ln.,\\The University of Alabama,\\Tuscaloosa, AL 35487-0206
 
 <style>
   .google-maps {
