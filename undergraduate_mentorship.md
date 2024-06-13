@@ -8,8 +8,6 @@ parent: Mentorship
 
 ## Undergraduate Students
 
-### Research Mentorship
-
 <!-- Fall 2022 -->
 0. **Madeline L. Gruys** Bemidji State University, Bemidji, MN _Fall 2020 &rarr; Present_
 0. **Bethany C. Lieser** Anoka-Ramsey Community College, Cambridge, MN _Fall 2020 &rarr; Present_
@@ -57,8 +55,6 @@ parent: Mentorship
 0. **Rohith Kari** Rutgers University, NJ _Summer 2018_
 0. **Eric Chai** Rutgers University, NJ _Summer 2018_
 {: reversed="reversed"}
-
-<!-- ## Footnotes -->
 
 ---
 
