@@ -6,15 +6,17 @@ parent: Research Products
 
 # Posters
 
+## 2024
+
 <!-- #TAGC 2024 -->
 0. Valentín Rodriguez L.A., **Rele C.P.**, Díaz-Lameiro A.M. (2024) [_Annotation of Thor in Drosophila albomicans: Detangling the Insulin Signaling Pathway of Drosophila_](/assets/pdfs/posters/TAGC2024-valentin-rodriguez.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
 0. Díaz-Lameiro A.M., Burg M.G., Leung W., Kennell J., **Rele C.P.**, Sandlin K.M., Toering-Peters S., Reed L.K., The Genomics Education Partnership (2024) [_The Genomics Education Partnership: A Path to Classroom Research Experiences In Person or at a Distance_](/assets/pdfs/posters/TAGC2024-alondra_diaz.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
 0. <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2024) [_Conservation of the Regulatory Region and the Genes they Regulate within a Network_](/assets/pdfs/posters/TAGC24_poster-rele.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
 <!-- UA - URCA 2023 -->
-0. Giunta A.A.<sup>U</sup>, Yordy J.M.<sup>U</sup>, Lawson M.E.<sup>U</sup>, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _An analysis of the rate of evolution of poly, rictor, lin-28, ImpL2, and melt genes in the Insulin/Tor Signaling Pathway of Drosophila_, Undergraduate Research and Creative Activity Conference 2023, University of Alabama
+0. Giunta A.A.<sup>U</sup>, Yordy J.M.<sup>U</sup>, Lawson M.E.<sup>U</sup>, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2023) _An analysis of the rate of evolution of poly, rictor, lin-28, ImpL2, and melt genes in the Insulin/Tor Signaling Pathway of Drosophila_, Undergraduate Research and Creative Activity Conference 2023, University of Alabama
 <!-- GSA - #Dros23 2023 -->
-0. Elgin, S.C.R., Hays, S., Croonquist, P., Leung, W., Lopatto, D., **Rele C.P.**, Tanner, S., Reed, L. 2023. _The Genomics Education Partnership: Bringing Genomics Research into the Undergraduate Curriculum_. Poster presented at the Plant & Animal Genome Conference. San Diego, CA.
-0. Diotti R., Arrigo C., Burg M.G., DiAngelo J.R., Elgin S.C.R, Ellison C.E., Jones, C.J., Kennel J., Leatherman J., Leung W., Lopatto D., Mingo V., Reed L.K., **Rele C.P.**, Sandlin K.M., Siders J., Velazquez-Ulloa N.V.-U., The Genomics Education Partnership (2022) _The Genomics Education Partnership: Teaching and Research Opportunities_, Genetics Society of America, _Drospohila_ Conference, Chicago IL
+0. Elgin, S.C.R., Hays, S., Croonquist, P., Leung, W., Lopatto, D., **Rele C.P.**, Tanner, S., Reed, L. 2023. [_The Genomics Education Partnership: Bringing Genomics Research into the Undergraduate Curriculum_](/assets/pdfs/posters/PAG23-Hays.pdf). Poster presented at the Plant & Animal Genome Conference. San Diego, CA.
+0. Diotti R., Arrigo C., Burg M.G., DiAngelo J.R., Elgin S.C.R, Ellison C.E., Jones, C.J., Kennel J., Leatherman J., Leung W., Lopatto D., Mingo V., Reed L.K., **Rele C.P.**, Sandlin K.M., Siders J., Velazquez-Ulloa N.V.-U., The Genomics Education Partnership (2022) [_The Genomics Education Partnership: Teaching and Research Opportunities_](/assets/pdfs/posters/DRC2023-Diotti.pdf), Genetics Society of America, _Drospohila_ Conference, Chicago IL
 0. Lopatto, D., Paliulis, L.V., Silver Key, S.C., Van Stry, M., Siders, J., Leung, W., Sandlin, K.M., **C.P. Rele**, Reed, L.K. 2023. _Pandemic Lessons Learned: Course-Based Research in Remote/Hybrid Environments_. Poster presented at the Lilly Conference. San Diego, CA
 <!-- GEP - QUBES -->
 0. D. Lopatto , C.S. Silver Key, M. Van Stry, J. Siders, A.L. Goodman, W. Leung, M.S. Santisteban, K.M. Sandlin, **C.P. Rele**, L.K. Reed (2023). _Lessons Learned for Post-COVID Application from a Pandemic-resilient, Computer-based, Nationwide Genomics CURE_. ASCB 2023
