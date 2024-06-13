@@ -7,8 +7,9 @@ parent: Research Products
 ## Posters
 
 <!-- #TAGC 2024 -->
-0. 
-0.<span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2024) [_Conservation of the Regulatory Region and the Genes they Regulate within a Network_](/assets/pdfs/posters/TAGC24_poster-rele.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
+0. Valentín Rodriguez L.A., **Rele C.P.**, Díaz-Lameiro A.M. (2024) [_Annotation of Thor in Drosophila albomicans: Detangling the Insulin Signaling Pathway of Drosophila_](/assets/pdfs/posters/TAGC2024-valentin-rodriguez.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
+0. Díaz-Lameiro A.M., Burg M.G., Leung W., Kennell J., **Rele C.P.**, Sandlin K.M., Toering-Peters S., Reed L.K., The Genomics Education Partnership (2024) [_The Genomics Education Partnership: A Path to Classroom Research Experiences In Person or at a Distance_](/assets/pdfs/posters/TAGC2024-alondra_diaz.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
+0. <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2024) [_Conservation of the Regulatory Region and the Genes they Regulate within a Network_](/assets/pdfs/posters/TAGC24_poster-rele.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
 <!-- UA - URCA 2023 -->
 0. Giunta A.A.<sup>U</sup>, Yordy J.M.<sup>U</sup>, Lawson M.E.<sup>U</sup>, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _An analysis of the rate of evolution of poly, rictor, lin-28, ImpL2, and melt genes in the Insulin/Tor Signaling Pathway of Drosophila_, Undergraduate Research and Creative Activity Conference 2023, University of Alabama
 <!-- GSA - #Dros23 2023 -->
