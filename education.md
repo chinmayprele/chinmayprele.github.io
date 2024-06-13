@@ -20,4 +20,15 @@ nav_order: 2
 - Minor: Evolutionary Anthropology
 - Certificate: Computational Genetics
 
-{: reversed="reversed"}
+<dl>
+  <dt>Major</dt>
+  <dd>Genetics (_Departmental High Honors_)</dd>
+  <dt>Thesis</dt>
+  <dd>[Understanding the Evolutionary Dynamics of Transposable Elements in _Drosophila_ Via _de novo_ Identification and Classification](/assets/pdfs/pubs/rutgers2019_thesis-rele.pdf)</dd>
+  <dt>Advisor</dt>
+  <dd>[Christopher E. Ellison](https://ellisonlab.website)</dd>
+  <dt>Minor</dt>
+  <dd>Evolutionary Anthropology</dd>
+  <dt>Certificate</dt>
+  <dd>Computational Genetics</dd>
+</dl>
