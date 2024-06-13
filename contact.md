@@ -9,7 +9,7 @@ Please feel free to contact me with questions, or if you would like some more in
 
 <dl>
   <dt>Name</dt>
-  <dd><a href="https://www.pokemon.com">Link Text</dd>
+  <dd><a href="https://www.pokemon.com">Link Text</a></dd>
   <dt>Born</dt>
   <dd>1952</dd>
   <dt>Birthplace</dt>
