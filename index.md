@@ -11,12 +11,17 @@ We will be using species within the Drosophila phylogeny as our model organisms.
 
 I hope to expand what I learn about genomic network structure to _Hominidae_ in the future.
 
+A PDF version of my CV may be found [here](/assets/pdfs/cv/rele_cv.pdf), but it will likely be more out of date than this page is.
+This contains information about my [education](https://chinmayprele.github.io/education.html), [scientific employment](https://chinmayprele.github.io/scientific_employment.html), [sources of funding](https://chinmayprele.github.io/funding.html), [research products](https://chinmayprele.github.io/research_products.html), [scientific sercive](https://chinmayprele.github.io/scientific_service.html) and [professional societies](https://chinmayprele.github.io/professional_societies.html), [awards and honors](https://chinmayprele.github.io/awards_honors.html), and [mentorship](https://chinmayprele.github.io/mentorship.html) on this website.
+It is more likely that the website will be updated rather than the CV, but the CV provides a condensed version of my scientific profile.
 
-This is a footbote[^1]. 
+In my free time, I like to play table tennis.
+Below is my face if you want to scar yourself. 
+
+![My Face](/assets/img/photos/new_icon.jpg)
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
