@@ -26,5 +26,4 @@ nav_order: 10
 		- MCMC for Genetics
 0. _Aresty Research Fellowship_, Rutgers University (**2017**) $950 USD
 	- To study the Genetic Variation in the Repetitive Sequence Content of _D. melanogaster_ using Oxford Nanopore
-
 {: reversed="reversed"}
