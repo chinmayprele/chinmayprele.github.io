@@ -1,6 +1,6 @@
 ---
 title: Education
-layout: post
+layout: default
 nav_order: 2
 ---
 
