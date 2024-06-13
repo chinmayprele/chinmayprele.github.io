@@ -7,7 +7,12 @@ has_children: false
 has_toc: true
 ---
 
-There are published articles that have been submitted to a peer-reviewed journal. 
+There are microPublications that have been submitted to the [microPublication journal](https://www.micropublication.org).
+
+> {: .highlight }
+microPublication.org publishes brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative. 
+Each article is peer reviewed and assigned a DOI. microPublication Biology articles are now discoverable through PMC, PubMed, EuropePMC, Google Scholar, and university library catalogs. 
+Included data are curated and, upon publication, deposited in third party referential databases (when available).
 
 # Articles
 
@@ -28,3 +33,4 @@ There are published articles that have been submitted to a peer-reviewed journal
 0. <span style="background-color: #70707030">**Rele CP**</span>, Sandlin KM, Leung W and Reed LK. _Manual annotation of Drosophila genes: a Genomics Education Partnership protocol_ [version 3; peer review: 1 approved, 1 approved with reservations]. F1000Research 2023, 11:1579 [10.12688/f1000research.126839.3](https://doi.org/10.12688/f1000research.126839.3)
 0. <span style="background-color: #70707030">**Rele C.P.**</span>, Sandlin K.M., Leung W., Reed L.K. _Manual Annotation of Genes within Drosophila Species: the Genomics Education Partnership protocol_ (2020) bioRxiv [10.1101/2020.12.10.420521](https://doi.org/10.1101/2020.12.10.420521)
 {: reversed="reversed"}
+
