@@ -24,7 +24,7 @@ parent: Mentorship
 0. **Gabriella N. Bickanovsky** University of Alabama, AL _Summer 2022 &rarr; Spring 2024_
 0. **Jamarcus D. Monroe** University of Alabama, AL _Summer 2022_
 <!-- Fall 2021 -->
-0. **Johan Silverman** Muhlenberg College, PA _Fall 2021 &rarr; Fall 2022_
+0. **Jonah Silverman** Muhlenberg College, PA _Fall 2021 &rarr; Fall 2022_
 <!-- Summer 2023 -->
 0. **Jhilam Dasgupta** University of Alabama, AL _Summer 2021 &rarr; Spring 2023_
 0. **Alyssa C. Koehler**[^alyssackoehler] University of Alabama, AL _Summer 2021 &rarr; Summer 2022_
