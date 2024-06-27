@@ -13,7 +13,7 @@ I am recently getting into photohraphy as a hobby, and I have attached some imag
 
 This is more text as a test
 
-<a href="/assets/img/photography/botanical_garden/DSC_1927.JPG" data-lightbox="botanical_garden" data-title="Test Caption"><img class="example-image" src="/assets/img/photography/botanical_garden/DSC_1927.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/DSC_1927.JPG" data-lightbox="botanical_garden" data-title="Test Caption of flower _Species gene_"><img class="example-image" src="/assets/img/photography/botanical_garden/DSC_1927.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 <a href="/assets/img/photography/botanical_garden/DSC_1977.JPG" data-lightbox="botanical_garden" data-title="Test Caption"><img class="example-image" src="/assets/img/photography/botanical_garden/DSC_1977.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 <a href="/assets/img/photography/botanical_garden/DSC_2047.JPG" data-lightbox="botanical_garden" data-title="Test Caption"><img class="example-image" src="/assets/img/photography/botanical_garden/DSC_2047.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 <a href="/assets/img/photography/botanical_garden/DSC_2050.JPG" data-lightbox="botanical_garden" data-title="Test Caption"><img class="example-image" src="/assets/img/photography/botanical_garden/DSC_2050.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
