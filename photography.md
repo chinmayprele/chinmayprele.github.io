@@ -19,3 +19,6 @@ This is more text as a test
 # `2024/13/45` Another Gallery
 
 {% include image-gallery.html folder="/assets/img/photography/botanical_garden" %}
+
+
+<script src="{{ "/js/lightbox.js" | relative_url }}"></script>
