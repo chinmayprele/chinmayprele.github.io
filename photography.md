@@ -6,6 +6,8 @@ has_toc: true
 nav_order: 11
 ---
 
+# `2024/06/21` Botanical Gardens
+
 I am recently getting into photohraphy as a hobby, and I have attached some images that I took below, just as a recollection of the time I had. 
 
 {% include image-gallery.html folder="/assets/img/photography/botanical_garden" %}
