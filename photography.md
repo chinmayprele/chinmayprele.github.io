@@ -13,6 +13,8 @@ I am recently getting into photohraphy as a hobby, and I have attached some imag
 
 This is more text as a test
 
+<a href="/assets/img/photography/botanical_garden/DSC_1927.JPG" data-lightbox="Image 1" data-title="Test Caption">Image #1</a>
+
 {% include image-gallery.html folder="/assets/img/photography/botanical_garden" %}
 
 
@@ -21,5 +23,5 @@ This is more text as a test
 {% include image-gallery.html folder="/assets/img/photography/botanical_garden" %}
 
 
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
+<link href="/css/lightbox.css" rel="stylesheet" />
+<script type="text/javascript" src="/js/lightbox-plus-jquery.js"></script>
