@@ -21,4 +21,5 @@ This is more text as a test
 {% include image-gallery.html folder="/assets/img/photography/botanical_garden" %}
 
 
-<script src="{{ "/js/lightbox.js" | relative_url }}"></script>
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
