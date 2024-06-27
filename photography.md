@@ -28,6 +28,19 @@ Lightbox2 tutorial @ https://lokeshdhakar.com/projects/lightbox2/
 
 Visit to [Missouri Botanical Garden](https://www.missouribotanicalgarden.org).
 
+<a href="/assets/img/photography/botanical_garden/IMG_00001.JPG" data-lightbox="botanical_garden" data-title="Scarlet monkeyflower: Mimulus cardinalis"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00001.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00002.JPG" data-lightbox="botanical_garden" data-title="Grevillea johnsonii"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00002.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00003.JPG" data-lightbox="botanical_garden" data-title="Budding Calceolaria"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00003.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00004.JPG" data-lightbox="botanical_garden" data-title="Sunport of private garden"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00004.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00005.JPG" data-lightbox="botanical_garden" data-title="Far East Gladiolus"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00005.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00006.JPG" data-lightbox="botanical_garden" data-title="Oxalis triangularis"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00006.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00008.JPG" data-lightbox="botanical_garden" data-title="Oxalis triangularis"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00008.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00007.JPG" data-lightbox="botanical_garden" data-title="Oxalis triangularis"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00007.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00009.JPG" data-lightbox="botanical_garden" data-title="Tiger lily: Lilium amabile"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00009.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00010.JPG" data-lightbox="botanical_garden" data-title="Climatron: Mini-waterfall"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00010.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00011.JPG" data-lightbox="botanical_garden" data-title="Climatron: Interior of tree"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00011.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+
+
 # `2024/04/08` Solar Eclipse
 
 The eclipse was observed at [Woolly Hollow State Park](https://www.arkansasstateparks.com/parks/woolly-hollow-state-park) in Arkansas on _2024/04/08_ in the path of totallity.
