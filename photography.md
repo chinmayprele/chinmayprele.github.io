@@ -15,7 +15,8 @@ This is more text as a test
 
 <a href="/assets/img/photography/botanical_garden/DSC_1927.JPG" data-lightbox="Image 1" data-title="Test Caption"></a>
 
-<a href="/assets/img/photography/botanical_garden/DSC_1977.JPG" data-lightbox="Image 1" data-title="Test Caption"> = $0 </a>
+<a href="/assets/img/photography/botanical_garden/DSC_1927.JPG" data-lightbox="Image 1" data-title="Test Caption" />
+<a href="/assets/img/photography/botanical_garden/DSC_1977.JPG" data-lightbox="Image 1" data-title="Test Caption" />
 
 {% include image-gallery.html folder="/assets/img/photography/botanical_garden" %}
 
@@ -27,3 +28,10 @@ This is more text as a test
 
 <link href="/css/lightbox.css" rel="stylesheet" />
 <script type="text/javascript" src="/js/lightbox-plus-jquery.js"></script>
+<script>
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true,
+      'alwaysShowNavOnTouchDevices': true,
+    })
+</script>
