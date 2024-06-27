@@ -28,6 +28,15 @@ Lightbox2 tutorial @ https://lokeshdhakar.com/projects/lightbox2/
 
 Visit to [Missouri Botanical Garden](https://www.missouribotanicalgarden.org).
 
+# `2024/04/08` Solar Eclipse
+
+The eclipse was observed at [Woolly Hollow State Park](https://www.arkansasstateparks.com/parks/woolly-hollow-state-park) in Arkansas on _2024/04/08_ in the path of totallity.
+We also went to the [Memphis Botanic Garden](https://membg.org) and [Memphis Brooks Museum of Art](https://www.brooksmuseum.org).
+
+
+
+
+
 
 
 <link href="/css/lightbox.css" rel="stylesheet" />
