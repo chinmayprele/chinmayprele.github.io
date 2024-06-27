@@ -38,7 +38,14 @@ Visit to [Missouri Botanical Garden](https://www.missouribotanicalgarden.org).
 <a href="/assets/img/photography/botanical_garden/IMG_00007.JPG" data-lightbox="botanical_garden" data-title="Oxalis triangularis"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00007.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 <a href="/assets/img/photography/botanical_garden/IMG_00009.JPG" data-lightbox="botanical_garden" data-title="Tiger lily: Lilium amabile"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00009.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 <a href="/assets/img/photography/botanical_garden/IMG_00010.JPG" data-lightbox="botanical_garden" data-title="Climatron: Mini-waterfall"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00010.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
-<a href="/assets/img/photography/botanical_garden/IMG_00011.JPG" data-lightbox="botanical_garden" data-title="Climatron: Interior of tree"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00011.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00011.JPG" data-lightbox="botanical_garden" data-title="Climatron: Renealmia"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00011.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00013.JPG" data-lightbox="botanical_garden" data-title="Climatron: Using iNaturalist to detect species"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00013.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00014.JPG" data-lightbox="botanical_garden" data-title="Climatron: Curcuma aromatica"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00014.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00015.JPG" data-lightbox="botanical_garden" data-title="Wooden replica of a Stanley Buggy"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00015.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00016.JPG" data-lightbox="botanical_garden" data-title="Young fiery skipper (Hylephila phyleus) on a Tennessee marigold (Tagetes erecta)"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00016.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00017.JPG" data-lightbox="botanical_garden" data-title="Coleus"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00017.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00018.JPG" data-lightbox="botanical_garden" data-title="Smooth Hydrangea (Hydrangea arborescens)"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00018.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/botanical_garden/IMG_00019.JPG" data-lightbox="botanical_garden" data-title="Gazebo, Boxwood Garen"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00019.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 
 
 # `2024/04/08` Solar Eclipse
@@ -73,7 +80,7 @@ We also went to the [Memphis Botanic Garden](https://membg.org) and [Memphis Bro
       'resizeDuration': 200,
       'wrapAround': true,
       'alwaysShowNavOnTouchDevices': true,
-      'resizeDuration': 300,
+      'resizeDuration': 100,
       'imageFadeDuration': 300,
       'fadeDuration': 300,
       'alwaysShowNavOnTouchDevices': true,
