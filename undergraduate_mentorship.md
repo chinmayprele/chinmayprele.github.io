@@ -10,7 +10,7 @@ parent: Mentorship
 
 <!-- Summer 2024 -->
 0. **Bushrah Mohamed-Elmabruk Rashrash** Grand Valley State University, MI _Summer 2024_
-0. **Ali Moslehi-Nik** Athens State University, AL _Summer 2024_
+0. **Caitlin M. Stanley** Athens State University, AL _Summer 2024_
 0. **Maliya Trevino** University of Alabama, AL _Summer 2024 &rarr; Present_
 <!-- Spring 2024 -->
 0. **Meghan L. Green** University of Alabama, AL _Spring 2024 &rarr; Present_
