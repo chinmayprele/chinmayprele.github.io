@@ -78,7 +78,7 @@ Visit to [Missouri Botanical Garden](https://www.missouribotanicalgarden.org).
 <a href="/assets/img/photography/botanical_garden/IMG_00049.JPG" data-lightbox="botanical_garden" data-title="The Three Sturgeons Fountain"><img class="example-image" src="/assets/img/photography/botanical_garden/IMG_00049.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 
 
-# `2024/04/08` Solar Eclipse
+<!-- # `2024/04/08` Solar Eclipse
 
 The eclipse was observed at [Woolly Hollow State Park](https://www.arkansasstateparks.com/parks/woolly-hollow-state-park) in Arkansas on _2024/04/08_ in the path of totallity.
 We also went to the [Memphis Botanic Garden](https://membg.org) and [Memphis Brooks Museum of Art](https://www.brooksmuseum.org).
@@ -97,7 +97,7 @@ We also went to the [Memphis Botanic Garden](https://membg.org) and [Memphis Bro
 <a href="/assets/img/photography/solar_eclipse/IMG_00012.jpg" data-lightbox="solar_eclipse" data-title="HA giving a virtual TV interview in Japan [PC: AP]"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00012.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 <a href="/assets/img/photography/solar_eclipse/IMG_5496.jpg" data-lightbox="solar_eclipse" data-title="Brooks Museum: At the Foot of the Cliff by William-Adolphe Bouguereau."><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_5496.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 <a href="/assets/img/photography/solar_eclipse/IMG_5498.jpg" data-lightbox="solar_eclipse" data-title="Goose and Mouse being 'playful'"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_5498.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
-
+ -->
 
 
 
