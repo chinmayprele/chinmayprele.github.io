@@ -14,7 +14,7 @@ I am recently getting into photohraphy as a hobby, and I have attached some imag
 
 Add new image using:
 
-<a href="IMAGE_PATH_WITHIN_ASSETS" data-lightbox="BIN_FOR _MAGE" data-title="IMAGE_CAPTION"><img class="example-image" src="SAME_AS_HREF" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="IMAGE_PATH_WITHIN_ASSETS" data-lightbox="BIN_FOR_IMAGE" data-title="IMAGE_CAPTION"><img class="example-image" src="SAME_AS_HREF" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 
 Lightbox2 tutorial @ https://lokeshdhakar.com/projects/lightbox2/
 
@@ -22,6 +22,13 @@ Lightbox2 tutorial @ https://lokeshdhakar.com/projects/lightbox2/
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
+
+
+# `2024/06/19-21` Pisgah National Forest, NC
+
+<a href="/assets/img/photography/pisgah/IMG_1.JPG" data-lightbox="pisgah" data-title="IMAGE_CAPTION"><img class="example-image" src="/assets/img/photography/pisgah/IMG_1.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/pisgah/IMG_2.JPG" data-lightbox="pisgah" data-title="IMAGE_CAPTION"><img class="example-image" src="/assets/img/photography/pisgah/IMG_2.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+
 
 
 # `2024/06/21` Botanical Gardens
