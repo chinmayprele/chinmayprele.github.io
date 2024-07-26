@@ -26,8 +26,8 @@ Lightbox2 tutorial @ https://lokeshdhakar.com/projects/lightbox2/
 
 # `2024/06/19-21` Pisgah National Forest, NC
 
-<a href="/assets/img/photography/pisgah/IMG_1.JPG" data-lightbox="pisgah" data-title="IMAGE_CAPTION"><img class="example-image" src="/assets/img/photography/pisgah/IMG_1.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
-<a href="/assets/img/photography/pisgah/IMG_2.JPG" data-lightbox="pisgah" data-title="IMAGE_CAPTION"><img class="example-image" src="/assets/img/photography/pisgah/IMG_2.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/pisgah/IMG_1.JPG" data-lightbox="pisgah" data-title="Rock Falls, GA"><img class="example-image" src="/assets/img/photography/pisgah/IMG_1.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/pisgah/IMG_2.JPG" data-lightbox="pisgah" data-title="LOV3BU6"><img class="example-image" src="/assets/img/photography/pisgah/IMG_2.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 
 
 
