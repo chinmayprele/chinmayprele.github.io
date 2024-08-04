@@ -339,7 +339,6 @@ microPublications are currently being included in this list, but may not in the 
 0. Alyssa Koehler, Aaron Abizadeh, Madeline Cesarone, Laura K. Reed, Solomon Tin Chi Chak, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DwilCAF1_melt</i> (2022)
 0. Abigail (Abby) Myers, Annemarie Lucy Knutson, Brenda Mwangi, Rojina Razlansari, Cindy Wolfe, Nikolaos Tsotakos, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DgriCAF1_Mipp2</i> (2022)
 0. Megan E. Lawson, Gabriella N. Bicanovsky, Alexandria Nicolaus, Eden Dowell, Jordan Elkinton, Sean Shelley-Tremblay, Laura K. Reed, Lindsey J. Long, Stephanie Toering-Peters, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DeugGB2_dock</i> (2022)
-0. Megan E. Lawson, Alexa Hokenstad, Isabel G. Wellik, Jeffrey S. Thompson, Joyce Stamm, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DeugGB2_Myc</i> (2022)
 0. Jamarcus Monroe, Ashley Morgan, Erin Capper, Laura K. Reed, Stephanie Toering-Peters, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DficGB2_dock</i> (2022)
 0. Graham Jones, Erin Capper, Gurjoban Hayer, Kelsie L.  Schiefelbein, Kyla M. Chavez, James J. Youngblom, Lindsey J. Long, Stephanie Toering-Peters, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DereCAF1_dock</i> (2022)
 0. Alyssa Koehler, Gabriella N. Bicanovsky, Abby Laskowski, McKenzie Chamberlain, Samantha Hoffman, Laura K. Reed, Paula Croonquist, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DsecCAF1_Myc</i> (2022)
