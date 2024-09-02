@@ -6,8 +6,6 @@ parent: Research Products
 
 # Posters
 
-## 2024
-
 <!-- #TAGC 2024 -->
 0. Valentín Rodriguez L.A., **Rele C.P.**, Díaz-Lameiro A.M. (2024) [_Annotation of Thor in Drosophila albomicans: Detangling the Insulin Signaling Pathway of Drosophila_](/assets/pdfs/posters/TAGC2024-valentin-rodriguez.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
 0. Díaz-Lameiro A.M., Burg M.G., Leung W., Kennell J., **Rele C.P.**, Sandlin K.M., Toering-Peters S., Reed L.K., The Genomics Education Partnership (2024) [_The Genomics Education Partnership: A Path to Classroom Research Experiences In Person or at a Distance_](/assets/pdfs/posters/TAGC2024-alondra_diaz.pdf), Genetics Society of America, The Allied Genetics Conference 2024, National Harbor, MD
