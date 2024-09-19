@@ -3,7 +3,7 @@ title: Funding
 layout: default
 author: cprele
 has_toc: true
-nav_order: 10
+nav_order: 11
 ---
 
 # The University of Alabama, Tuscaloosa, AL
