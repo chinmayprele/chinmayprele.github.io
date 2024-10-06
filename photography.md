@@ -13,6 +13,13 @@ If you would like to view them, navigate to the page below, or [follow this link
 
 <iframe src="https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4" width="100%" height="600px"></iframe>
 
+
+[button url="https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4"]
+
+<button name="button" onclick="https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4">Plain HTML Buttom</button>
+
+[Markdown way](https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4){: .btn}
+
 <!-- 
 
 Add new image using:
