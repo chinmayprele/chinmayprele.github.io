@@ -13,7 +13,7 @@ If you would like to view them, navigate to the page below, or [follow this link
 
 [Navigate to Photography Website](https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4){: .btn}
 
-<!-- <!-- 
+<!-- 
 
 Add new image using:
 
@@ -21,7 +21,7 @@ Add new image using:
 
 Lightbox2 tutorial @ https://lokeshdhakar.com/projects/lightbox2/
 
- -->
+
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -161,16 +161,16 @@ We also went to the [Memphis Botanic Garden](https://membg.org) and [Memphis Bro
 <a href="/assets/img/photography/solar_eclipse/IMG_00007.jpeg" data-lightbox="solar_eclipse" data-title="Art piece of Stained Glass at Brooks"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00007.jpeg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 <a href="/assets/img/photography/solar_eclipse/IMG_00010.jpg" data-lightbox="solar_eclipse" data-title="Wide Art piece of Stained Glass at Brooks"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00010.jpeg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
 
-<!-- <a href="/assets/img/photography/solar_eclipse/IMG_00004.JPG" data-lightbox="solar_eclipse" data-title="Others readying themselves for totallity"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00004.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> -->
-<!-- <a href="/assets/img/photography/solar_eclipse/IMG_00008.jpeg" data-lightbox="solar_eclipse" data-title="AP at the end of a fountain at Memphis Botanic Garden"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00008.jpeg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> -->
-<!-- <a href="/assets/img/photography/solar_eclipse/IMG_00009.jpeg" data-lightbox="solar_eclipse" data-title="Pasture puppy on the drive back to AL"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00009.jpeg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> -->
-<!-- <a href="/assets/img/photography/solar_eclipse/IMG_00011.jpg" data-lightbox="solar_eclipse" data-title="Rig of a former academic astronomer and current amateur eclipse-chaser"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00011.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> -->
-<!-- <a href="/assets/img/photography/solar_eclipse/IMG_00012.jpg" data-lightbox="solar_eclipse" data-title="HA giving a virtual TV interview in Japan [PC: AP]"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00012.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> -->
-<!-- <a href="/assets/img/photography/solar_eclipse/IMG_5496.jpg" data-lightbox="solar_eclipse" data-title="Brooks Museum: At the Foot of the Cliff by William-Adolphe Bouguereau."><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_5496.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> -->
-<!-- <a href="/assets/img/photography/solar_eclipse/IMG_5498.jpg" data-lightbox="solar_eclipse" data-title="Goose and Mouse being 'playful'"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_5498.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> -->
+<a href="/assets/img/photography/solar_eclipse/IMG_00004.JPG" data-lightbox="solar_eclipse" data-title="Others readying themselves for totallity"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00004.JPG" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> 
+<a href="/assets/img/photography/solar_eclipse/IMG_00008.jpeg" data-lightbox="solar_eclipse" data-title="AP at the end of a fountain at Memphis Botanic Garden"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00008.jpeg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/solar_eclipse/IMG_00009.jpeg" data-lightbox="solar_eclipse" data-title="Pasture puppy on the drive back to AL"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00009.jpeg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> 
+<a href="/assets/img/photography/solar_eclipse/IMG_00011.jpg" data-lightbox="solar_eclipse" data-title="Rig of a former academic astronomer and current amateur eclipse-chaser"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00011.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/solar_eclipse/IMG_00012.jpg" data-lightbox="solar_eclipse" data-title="HA giving a virtual TV interview in Japan [PC: AP]"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_00012.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> 
+<a href="/assets/img/photography/solar_eclipse/IMG_5496.jpg" data-lightbox="solar_eclipse" data-title="Brooks Museum: At the Foot of the Cliff by William-Adolphe Bouguereau."><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_5496.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a>
+<a href="/assets/img/photography/solar_eclipse/IMG_5498.jpg" data-lightbox="solar_eclipse" data-title="Goose and Mouse being 'playful'"><img class="example-image" src="/assets/img/photography/solar_eclipse/IMG_5498.jpg" alt="" style="object-fit: cover; width: 150px; height: 150px" /></a> 
 
 
-
+ -->
 
 
 <link href="/css/lightbox.css" rel="stylesheet" />
@@ -186,4 +186,4 @@ We also went to the [Memphis Botanic Garden](https://membg.org) and [Memphis Bro
       'alwaysShowNavOnTouchDevices': true,
     })
 </script>
- -->
+
