@@ -11,7 +11,7 @@ nav_order: 12
 I am recently getting into photohraphy as a hobby, and I have attached some images that I took below.
 If you would like to view them, navigate to the page below, or [follow this link in a new tab](https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4).
 
-[Navigate to Photography Website](https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4){: .btn, target="_blank", width="200px",}
+[Navigate to Photography Website](https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4){: .btn, target="_blank"}
 
 <!-- 
 
