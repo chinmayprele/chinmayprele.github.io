@@ -1,0 +1,978 @@
+(base) 
+[2024/26/15 - Tue - 11:26:08] cprele @ /Users/cprele/Downloads/amfft_test/Cp16-PA 
+ssh -R 52698:localhost:52698 cprele@uahpc.ua.edu
+(cprele@uahpc.ua.edu) Password: 
+Warning: remote port forwarding failed for listen port 52698
+Last login: Tue Oct 15 11:25:07 2024 from 10.8.96.25
+----------------------------------------------------------------
+ ||                      Welcome to UAHPC                    ||
+ ||                                                          ||
+ || Questions about our HPC services? Check out our website! ||
+ ||                    https://hpc.ua.edu                    ||  
+ ||        For software requests and technical help,         ||
+ ||  visit the UAHPC Portal with the URL above and log in!   ||
+ ||                                                          ||
+ ||  Remember: Please do not run computationally expensive   ||
+ ||                 programs on the head node!               ||
+ ||                                                          ||
+ ||    Did you know? You can also access the CHPC cluster    ||
+ ||                    via "ssh chpc.ua.edu"                 ||
+----------------------------------------------------------------
+Rocks 7.0 (Manzanita)
+Profile built 15:49 04-Oct-2018
+
+Kickstarted 16:06 04-Oct-2018
+Loading cURL/7.82.0_gcc-9.1.0
+  Loading requirement: compilers/gcc/9.1.0
+Loading python/Anaconda3/tensorflow-1.1.0
+  ERROR: Module cannot be loaded due to a conflict.
+    HINT: Might try "module unload python" first.
+Loading bio/raxml/8.2.4
+  Loading requirement: compilers/intel/unknown
+
+[2024/10/15 - 11:26:11 - Rele, C.P.] UAHPC @ /bighome/cprele
+cd cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code/
+
+[2024/10/15 - 11:26:24 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code
+lsl
+total 11M
+-rw-r--r-- 1 cprele  609 Jun  6 10:43 README.md
+-rw-r--r-- 1 cprele 8.5K Jun  6 10:43 convert_msa_json_to_tidy.py
+-rw-r--r-- 1 cprele 5.0K Jun  6 10:43 deprecated-generate_msa.py
+-rw-r--r-- 1 cprele  12K Jun  6 10:43 extract_msa_metrics.py
+-rw-r--r-- 1 cprele 3.4K Jun  6 10:43 extract_transcript_metrics.py
+-rw-r--r-- 1 cprele 4.4K Sep 27 12:08 sequence_combiner.py
+-rw-r--r-- 1 cprele 6.5K Sep 27 12:22 generate_msa.py
+-rw-r--r-- 1 cprele 2.5K Sep 27 14:28 msa_generator.sh
+-rw-r--r-- 1 cprele 2.6K Oct  1 16:38 newick2mafft.rb
+-rw-r--r-- 1 cprele 1.2K Oct  1 18:19 entropy.sh
+-rw-r--r-- 1 cprele  15K Oct 15 08:11 mafft_runner.sh
+-rw-r--r-- 1 cprele 4.8K Oct 15 08:17 meme_runner.sh
+drwxr-xr-x 2 cprele 2.5M Oct 15 09:31 slurmrunfiles
+
+[2024/10/15 - 11:26:24 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code
+rsub mafft_runner.sh 
+
+[2024/10/15 - 11:26:28 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code
+rsub mafft_runner.sh 
+/home/cprele/.local/bin/rsub: connect: Connection refused
+/home/cprele/.local/bin/rsub: line 412: /dev/tcp/localhost/52698: Connection refused
+Unable to connect to TextMate on localhost:52698
+
+[2024/10/15 - 11:26:37 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code
+exit
+logout
+Connection to uahpc.ua.edu closed.
+(base) 
+[2024/26/15 - Tue - 11:26:39] cprele @ /Users/cprele/Downloads/amfft_test/Cp16-PA 
+ssh -R 52698:localhost:52698 cprele@uahpc.ua.edu
+(cprele@uahpc.ua.edu) Password: 
+Last login: Tue Oct 15 11:26:10 2024 from 10.116.115.174
+----------------------------------------------------------------
+ ||                      Welcome to UAHPC                    ||
+ ||                                                          ||
+ || Questions about our HPC services? Check out our website! ||
+ ||                    https://hpc.ua.edu                    ||  
+ ||        For software requests and technical help,         ||
+ ||  visit the UAHPC Portal with the URL above and log in!   ||
+ ||                                                          ||
+ ||  Remember: Please do not run computationally expensive   ||
+ ||                 programs on the head node!               ||
+ ||                                                          ||
+ ||    Did you know? You can also access the CHPC cluster    ||
+ ||                    via "ssh chpc.ua.edu"                 ||
+----------------------------------------------------------------
+Rocks 7.0 (Manzanita)
+Profile built 15:49 04-Oct-2018
+
+Kickstarted 16:06 04-Oct-2018
+Loading cURL/7.82.0_gcc-9.1.0
+  Loading requirement: compilers/gcc/9.1.0
+Loading python/Anaconda3/tensorflow-1.1.0
+  ERROR: Module cannot be loaded due to a conflict.
+    HINT: Might try "module unload python" first.
+Loading bio/raxml/8.2.4
+  Loading requirement: compilers/intel/unknown
+
+[2024/10/15 - 11:26:43 - Rele, C.P.] UAHPC @ /bighome/cprele
+cd /bighome/cprele/cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code
+
+[2024/10/15 - 11:26:47 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code
+rsub mafft_runner.sh 
+
+[2024/10/15 - 11:26:50 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code
+sbatch mafft_runner.sh 
+Submitted batch job 6782147
+
+[2024/10/15 - 11:27:17 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch2-regR_and_CDS_evolution/03-msa_metrics_cds/code
+cd ../../../../
+
+[2024/10/15 - 14:09:13 - Rele, C.P.] UAHPC @ /bighome/cprele
+cd cpr-thesis/ch1-assembly_stats/03-orthofinder/code/
+
+[2024/10/15 - 14:09:21 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code
+lsl
+total 152K
+drwxr-xr-x 3 cprele  12K Oct  5 20:15 gclib
+drwxr-xr-x 4 cprele 4.0K Oct  5 20:15 gffread
+-rw-r--r-- 1 cprele 2.5K Oct 11 16:31 orthofinder.sh
+drwxr-xr-x 2 cprele 4.0K Oct 11 16:31 slurmrunfiles
+
+[2024/10/15 - 14:09:22 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code
+rsub orthofinder.sh 
+
+[2024/10/15 - 14:09:26 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code
+sbatch orthofinder.sh 
+Submitted batch job 6782208
+
+[2024/10/15 - 14:10:33 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code
+watch -d -n1 'sacct --format="JobID%24,JobName%30,Start,State,Elapsed%12,CPUTime%12,Partition" --user=cprele | grep -vE ".batch|.extern|COMPLETED|CANCELLED"'
+
+[2024/10/15 - 14:12:10 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code
+sbatch orthofinder.sh 
+Submitted batch job 6782212
+
+[2024/10/15 - 14:13:25 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code
+watch -d -n1 'sacct --format="JobID%24,JobName%30,Start,State,Elapsed%12,CPUTime%12,Partition" --user=cprele | grep -vE ".batch|.extern|COMPLETED|CANCELLED"'
+
+[2024/10/15 - 14:40:53 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code
+mkdir xenolog_tester
+
+[2024/10/15 - 14:41:05 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code
+cd xenolog_tester/
+
+[2024/10/15 - 14:41:09 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/584/425/GCF_016584425.1_ASM1658442v1/GCF_016584425.1_ASM1658442v1_protein.faa.gz
+--2024-10-15 14:41:13--  https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/584/425/GCF_016584425.1_ASM1658442v1/GCF_016584425.1_ASM1658442v1_protein.faa.gz
+Resolving ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)... 130.14.250.11, 130.14.250.7, 130.14.250.31, ...
+Connecting to ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)|130.14.250.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224218 (219K) [application/x-gzip]
+Saving to: ‘GCF_016584425.1_ASM1658442v1_protein.faa.gz’
+
+100%[=========================================================================================================================>] 224,218     --.-K/s   in 0.1s    
+
+2024-10-15 14:41:13 (2.07 MB/s) - ‘GCF_016584425.1_ASM1658442v1_protein.faa.gz’ saved [224218/224218]
+
+
+[2024/10/15 - 14:41:13 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+lsl
+total 372K
+-rw-r--r-- 1 cprele 219K Aug  8 14:29 GCF_016584425.1_ASM1658442v1_protein.faa.gz
+
+[2024/10/15 - 14:41:14 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+gunzip GCF_016584425.1_ASM1658442v1_protein.faa.gz 
+
+[2024/10/15 - 14:41:35 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+lsl
+total 584K
+-rw-r--r-- 1 cprele 417K Aug  8 14:29 GCF_016584425.1_ASM1658442v1_protein.faa
+
+[2024/10/15 - 14:41:36 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+head GCF_016584425.1_ASM1658442v1_protein.faa 
+>WP_006013840.1 MULTISPECIES: twin-arginine translocase TatA/TatE family subunit [Rickettsiales]
+MSLGPWQLFLVLIIILVLFGAGRLPQVMGDLGKGIKNLKQELKDSEKLSSNEPDR
+>WP_006014985.1 MULTISPECIES: F0F1 ATP synthase subunit C [Wolbachia]
+MDLVALKFIAIGLAVFGMLGAGLGIANIFSAMLNGIARNPESEGKMKSYVYIGAAMVEIMGLLAFVLAMLLIFAA
+>WP_006279181.1 MULTISPECIES: 30S ribosomal protein S19 [Rickettsiales]
+MSRSAWKPPFCHPSILKSVNNALNKGFVNMAIKVHSRASVILPNCLGLKFAVYNGKDYIPVNVNDQNMIGHKFGEFSPTR
+KFTGHSGDKKATRR
+>WP_006279213.1 MULTISPECIES: divalent-cation tolerance protein CutA [Wolbachia]
+MNNLVLVYTTFSNFEEAKTVSEELLNEKLIVCVNIFPEVNSLYLWEGKISNSCEVVAIMKSRNDQVDKIVEKIEAMHSYD
+QPAIAVMPIEKANKSFTNWANSVIDVSSIGV
+
+[2024/10/15 - 14:41:40 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+mkdir ^C
+
+[2024/10/15 - 14:41:52 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+mv GCF_016584425.1_ASM1658442v1_protein.faa wolbachia.faa
+
+[2024/10/15 - 14:41:58 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+mkdir dmel.faa
+
+[2024/10/15 - 14:42:03 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+rmdir dmel.faa/
+
+[2024/10/15 - 14:42:07 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+rsub dmel.faa
+
+[2024/10/15 - 14:42:11 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+srun --pty -p main /bin/bash
+srun: job 6782285 queued and waiting for resources
+srun: job 6782285 has been allocated resources
+
+[2024/10/15 - 14:45:00 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+module avail
+---------------------------------------------------------------------- global/user modulerc -----------------------------------------------------------------------
+bio/edta_conda  bio/edta_new  gcc  price  price/1.2  stacks  stacks/1.4.2  star  star/2.5.3a  vcftools  vcftools/Mar1020  
+
+----------------------------------------------------------------- /usr/share/Modules/modulefiles ------------------------------------------------------------------
+dot  module-git  module-info  modules  null  opt-devel  opt-perl  opt-python  rocks-openmpi  rocks-openmpi_ib  use.own  
+
+--------------------------------------------------------------------- /share/apps/modulefiles ---------------------------------------------------------------------
+ant/1.10.14                  bio/phylobayes/1.6-slurm  compilers/intel/2020                  miniconda3/envs/LTR_retriever     physical/LAMMPS/gcc/22Aug2018      
+binutils/2.27                bio/porechop              compilers/intel/fakeintel             miniconda3/envs/qiime2-2020.6     physical/LAMMPS/gcc/050218         
+binutils/2.31.1              bio/poretally             compilers/intel/oneAPI2024            molden/6.9                        physical/LAMMPS/gcc/110917         
+bio/allpathslg               bio/price/1.2             compilers/intel/unknown               mpi/mpich/3.3.2-gcc               physical/LAMMPS/gcc/160416         
+bio/angsd/0.935-53-gf475f10  bio/Prothint/v524c27f     compilers/intel/util                  mpi/mpich/3.3.2-intel             physical/LAMMPS/gcc/220918         
+bio/ART/MountRainier         bio/purge_dups            compilers/ninja/1.11.0                mpi/mvapich/gcc/2.1               physical/LAMMPS/gcc/220918-gpu     
+bio/augustus/3.3.2           bio/pyrad/3.0.4           compilers/nvidia/20.7_gcc485_cuda110  mpi/mvapich/gcc/2.2/shared        physical/LAMMPS/intel/03Mar2020    
+bio/augustus/3.4.0           bio/qiime                 compilers/nvidia/20.7_gcc540_cuda110  mpi/mvapich/gcc/2.2/static        physical/LAMMPS/intel/110917       
+bio/bam-readcount            bio/qiime_2               compilers/nvidia/22.3_gcc540_cuda116  mpi/mvapich/intel/1.2.0           physical/LAMMPS/intel/171116-avx   
+bio/bamtools/2.5.2           bio/quast/4.4             compilers/nvidia/toolkit_10.0         mpi/mvapich/intel/2-1.9a2-shared  physical/LAMMPS/intel/220918       
+bio/bamtools/2391b1a         bio/quast/5.0             compilers/pgi                         mpi/mvapich/intel/2-1.9a2-static  physical/LAMMPS/intel/220918-gpu   
+bio/bbmap/37.32              bio/quickmerge            cURL/7.82.0_gcc-9.1.0                 mpi/mvapich/intel/2-1.9a2/shared  physical/LAMMPS/intel/Oct292020    
+bio/beast/2.6.6              bio/racer                 Delphes2                              mpi/mvapich/intel/2-1.9a2/static  physical/LAMMPS/unknown            
+bio/bgc/1.0.3                bio/racon/1.3.2           dmtcp/2.5.2                           mpi/openmpi/3.1.1-gpu             physical/moose                     
+bio/bioinfo-gcc              bio/raxml/8.2.4           eigen/eigen.old                       mpi/openmpi/gcc/1.6.4             physical/orca/4.2.0                
+bio/bioinfo-java             bio/raxml/8.2.12          eigen/eigen3.4                        mpi/openmpi/gcc/1.8.4             physical/orca/5.0.1                
+bio/bismark                  bio/raxml/ng              fftw2                                 mpi/openmpi/gcc/1.10.2            physical/orca/5.0.2                
+bio/blast/2.3.0              bio/reapr/1.0.18          fftw3/gcc4.3.5                        mpi/openmpi/gcc/2.1.2             physical/orca/5.0.2-chpc           
+bio/blast/2.9.0              bio/redundans             fftw3/gcc5.4.0                        mpi/openmpi/gcc/3.1.1             physical/orca/5.0.3                
+bio/blat                     bio/repeatmodeler/1.0.8   fftw3/unknown                         mpi/openmpi/gcc/3.1.6             physical/phana/2.75                
+bio/bowtie/1.1.2             bio/repeatmodeler/2.0.3   foamextend/4.0                        mpi/openmpi/gcc/3.1.6_uahpc       physical/phreeqcrm/3.4.0           
+bio/bowtie/2.2.5             bio/salmon/0.11.3         gaussian/g03.e01                      mpi/openmpi/gcc/4.1.1             physical/proj/6.2.0                
+bio/bowtie/2.3               bio/salmon/1.3.0          gaussian/g09.d01                      mpi/openmpi/gcc/4.1.1-chpc        physical/pwtk/2.0                  
+bio/braker/v54322a4          bio/salsa                 gaussian/g16.a03                      mpi/openmpi/gcc/4.1.4             physical/pythia/8                  
+bio/busco                    bio/samtools/1.6          gccutil                               mpi/openmpi/gcc/4.1.5_gcc_11.1.0  physical/pythia/8.12               
+bio/canu/1.9                 bio/samtools/1.9          geos/3.3.3                            mpi/openmpi/intel/1.6.4           physical/rotcfd/0.9.15             
+bio/canu/2.0                 bio/samtools/1.10         geos/3.10.1-gcc540                    mpi/openmpi/intel/1.8.4           physical/sprnt                     
+bio/canu/2.1                 bio/selscan               go/1.16.2                             mpi/openmpi/intel/2.1.2           physical/uintah                    
+bio/chiron                   bio/sga                   googletest/1.13.0                     mpi/openmpi/intel/3.1.1           physical/VASP/5.2                  
+bio/chirontest               bio/snakemake             gsl/1.15                              mpi/openmpi/intel/4.1.1           physical/VASP/5.3                  
+bio/cufflinks/2.2.1          bio/snpeff                gsl/2.4                               msgpack/c/6.0.0                   physical/VASP/5.4.1                
+bio/diyabc                   bio/spades/3.14.0         gsl/2.7.1                             msgpack/cpp/6.0.0                 physical/VASP/5.4.4                
+bio/edta                     bio/sratoolkit/2.9.2      gurobi                                ncl-ncar                          physical/VASP/5.4.4ctest           
+bio/edta_1_9_6               bio/sratoolkit/3.0.7      hdf4/4.2.14                           netcdf/gcc/3.6.3                  physical/VASP/6.1.0                
+bio/energyplus/8.7.0         bio/stacks/1.4.2          hdf5/1.8.9                            netcdf/gcc/4.6.1                  physical/VASP/6.2.0_cpu            
+bio/energyplus/8.9.0         bio/stacks/2.53           hdf5/1.8.13                           netcdf/gcc/4.6.2                  physical/VASP/6.2.0_gpu            
+bio/evm/1.1.1                bio/star/2.5.3a           hdf5/1.8.17                           netcdf/gcc/4.7.3-mpich            physical/VASP/6.2.1.VTST           
+bio/fastqc/0.11.5            bio/stringtie/2.2.1       hdf5/gcc/1.8.20                       netcdf/gcc/shared                 physical/VASP/6.3.2                
+bio/fastsimcoal/2.5.2.21     bio/structure/2.3.4       hdf5/gcc/1.10.4                       netcdf/intel/1.9.0                physical/VASP/dftd4                
+bio/faststructure            bio/supernova/2.0.0       hdf5/gcc/1.10.6-mpich                 netcdf/intel/4.6.1                physical/wgrib/1.8.1.0b            
+bio/freebayes/1.2.0          bio/tophat/2.1.1          hdf5/intel/1.8.13                     netcdf/intel/4.6.2                physical/WRF/Hydro/3.0             
+bio/freebayes/latest         bio/transdecoder/2.0.1    hdf5/intel/1.8.20                     netcdf/intel/4.7.3-mpich          physical/WRF/Hydro/5.0             
+bio/freesurfer/6.0.0         bio/transdecoder/5.5.0    hdf5/intel/1.10.4                     netcdf/intel/4.9.2                physical/WRF/WPS/4.4               
+bio/freesurfer/7.1.1         bio/transposome/0.12.1    hdf5/intel/1.10.6-mpich               netcdf/intel/shared               pythia8                            
+bio/fsl                      bio/trimgalore/0.4.2      hdf5/intel/1.12.1-openmpi             nxnastran/12                      python/Anaconda2/2.7               
+bio/gala                     bio/trinity/2.2.0         hdf5/intel/1.14.4                     nxnastran/unknown                 python/Anaconda3/3.4               
+bio/gatk                     bio/trinity/2.8.4         ipm/2.0.3                             octave                            python/Anaconda3/tensorflow-1.1.0  
+bio/genemark/4.38            bio/trinity/2.10.0        java/1.7.0                            openal/1.20.1                     python/python2/2.5                 
+bio/genemark/4_6_8           bio/trinity/2.14.0        java/1.8.0                            openblas/0.3.9                    python/python2/2.5shared           
+bio/generax                  bio/upp                   java/1.8.202                          openblas/0.3.20-gccv9.1.0         python/python2/2.6                 
+bio/gmap                     bio/vcflib                java/11.0.2                           openfoam/1806                     python/python2/2.6shared           
+bio/GRiD                     bio/vcflib_latest         java/17.0.11                          parmetis/gcc/shared/4.0.3         python/python2/2.7                 
+bio/hifiasm                  bio/vcftools/Mar1020      julia/1.6.2                           parmetis/gcc/static/4.0.3         python/python2/2.7.11              
+bio/hisat/2.0.5              bio/velvet/1.2.10         kokkos/3.4.1_gcc_8.1.0                parmetis/intel/shared/4.0.3       python/python2/2.7.11shared        
+bio/hmmer/3.1b2              bio/vtk/5.6               lhapdf/6.1.5                          parmetis/intel/static/4.0.3       python/python2/2.7.15shared        
+bio/hyphy/2.7.0              bio/wgs/8.3rc2            libexpat/2.4.7                        parthenon/0.6.1                   python/python2/2.7shared           
+bio/ima2p                    boost/1.55.0              mamba                                 perl/5.22.1                       python/python3/3.2                 
+bio/interproscan/5.19        boost/1.60.0              math/adcirc/51.52.29                  perl/5.22.1threaded               python/python3/3.2shared           
+bio/ivc/1.0.7                boost/1.66.0              math/cplex/12.8.0                     petsc/3.3-p7                      python/python3/3.3                 
+bio/jags/4.3.0               boost/1.72.0              math/cplex/20.1.0                     petsc/3.3-p7-gcc-mpich            python/python3/3.3shared           
+bio/kallisto/0.43.1          boost/1.77.0              math/mathematica/10.4.0               petsc/3.3-p7-intel-mpich          python/python3/3.4shared           
+bio/KMC                      boost/1.81.0              math/mathematica/12.3.1               petsc/3.11.2                      python/python3/3.6.5               
+
+
+[2024/10/15 - 14:45:18 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+module load bio/blast/2.9.0
+
+[2024/10/15 - 14:45:20 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+which blastn
+/share/apps/blastp/ncbi-blast-2.9.0+/bin/blastn
+
+[2024/10/15 - 14:45:37 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+which makeblastdb
+/share/apps/blastp/ncbi-blast-2.9.0+/bin/makeblastdb
+
+[2024/10/15 - 14:45:41 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+makeblastdb -in dmel.faa -dbtype prot -out dmel.db
+
+
+Building a new DB, current time: 10/15/2024 14:46:03
+New DB name:   /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester/dmel.db
+New DB title:  dmel.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 4 sequences in 0.0185971 seconds.
+
+[2024/10/15 - 14:46:03 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+lsl
+bash: lsl: command not found
+
+[2024/10/15 - 14:46:09 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+ls -ltrh
+total 680K
+-rw-r--r-- 1 cprele users 417K Aug  8 14:29 wolbachia.faa
+-rw-r--r-- 1 cprele users 2.5K Oct 15 14:43 dmel.faa
+-rw-r--r-- 1 cprele users  104 Oct 15 14:46 dmel.db.pin
+-rw-r--r-- 1 cprele users  334 Oct 15 14:46 dmel.db.phr
+-rw-r--r-- 1 cprele users 2.4K Oct 15 14:46 dmel.db.psq
+
+[2024/10/15 - 14:46:12 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+rm dmel.db.p*
+
+[2024/10/15 - 14:46:17 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+makeblastdb -in wolbachia.faa -dbtype prot -out wolbachia.db
+
+
+Building a new DB, current time: 10/15/2024 14:46:33
+New DB name:   /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester/wolbachia.db
+New DB title:  wolbachia.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1158 sequences in 0.135843 seconds.
+
+[2024/10/15 - 14:46:34 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+blastp -quert dmel.faa -db nt -out results.txt -evalue 1e-3 -outfmt 6
+USAGE
+  blastp [-h] [-help] [-import_search_strategy filename]
+    [-export_search_strategy filename] [-task task_name] [-db database_name]
+    [-dbsize num_letters] [-gilist filename] [-seqidlist filename]
+    [-negative_gilist filename] [-negative_seqidlist filename]
+    [-taxids taxids] [-negative_taxids taxids] [-taxidlist filename]
+    [-negative_taxidlist filename] [-ipglist filename]
+    [-negative_ipglist filename] [-entrez_query entrez_query]
+    [-db_soft_mask filtering_algorithm] [-db_hard_mask filtering_algorithm]
+    [-subject subject_input_file] [-subject_loc range] [-query input_file]
+    [-out output_file] [-evalue evalue] [-word_size int_value]
+    [-gapopen open_penalty] [-gapextend extend_penalty]
+    [-qcov_hsp_perc float_value] [-max_hsps int_value]
+    [-xdrop_ungap float_value] [-xdrop_gap float_value]
+    [-xdrop_gap_final float_value] [-searchsp int_value] [-seg SEG_options]
+    [-soft_masking soft_masking] [-matrix matrix_name]
+    [-threshold float_value] [-culling_limit int_value]
+    [-best_hit_overhang float_value] [-best_hit_score_edge float_value]
+    [-subject_besthit] [-window_size int_value] [-lcase_masking]
+    [-query_loc range] [-parse_deflines] [-outfmt format] [-show_gis]
+    [-num_descriptions int_value] [-num_alignments int_value]
+    [-line_length line_length] [-html] [-sorthits sort_hits]
+    [-sorthsps sort_hsps] [-max_target_seqs num_sequences]
+    [-num_threads int_value] [-ungapped] [-remote] [-comp_based_stats compo]
+    [-use_sw_tback] [-version]
+
+DESCRIPTION
+   Protein-Protein BLAST 2.9.0+
+
+Use '-help' to print detailed descriptions of command line arguments
+========================================================================
+
+Error:  (CArgException::eInvalidArg) Unknown argument: "quert"
+
+[2024/10/15 - 14:47:24 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+blastp -quert dmel.faa -db wolbachia.db -out results.txt -evalue 1e-3 -outfmt 6
+USAGE
+  blastp [-h] [-help] [-import_search_strategy filename]
+    [-export_search_strategy filename] [-task task_name] [-db database_name]
+    [-dbsize num_letters] [-gilist filename] [-seqidlist filename]
+    [-negative_gilist filename] [-negative_seqidlist filename]
+    [-taxids taxids] [-negative_taxids taxids] [-taxidlist filename]
+    [-negative_taxidlist filename] [-ipglist filename]
+    [-negative_ipglist filename] [-entrez_query entrez_query]
+    [-db_soft_mask filtering_algorithm] [-db_hard_mask filtering_algorithm]
+    [-subject subject_input_file] [-subject_loc range] [-query input_file]
+    [-out output_file] [-evalue evalue] [-word_size int_value]
+    [-gapopen open_penalty] [-gapextend extend_penalty]
+    [-qcov_hsp_perc float_value] [-max_hsps int_value]
+    [-xdrop_ungap float_value] [-xdrop_gap float_value]
+    [-xdrop_gap_final float_value] [-searchsp int_value] [-seg SEG_options]
+    [-soft_masking soft_masking] [-matrix matrix_name]
+    [-threshold float_value] [-culling_limit int_value]
+    [-best_hit_overhang float_value] [-best_hit_score_edge float_value]
+    [-subject_besthit] [-window_size int_value] [-lcase_masking]
+    [-query_loc range] [-parse_deflines] [-outfmt format] [-show_gis]
+    [-num_descriptions int_value] [-num_alignments int_value]
+    [-line_length line_length] [-html] [-sorthits sort_hits]
+    [-sorthsps sort_hsps] [-max_target_seqs num_sequences]
+    [-num_threads int_value] [-ungapped] [-remote] [-comp_based_stats compo]
+    [-use_sw_tback] [-version]
+
+DESCRIPTION
+   Protein-Protein BLAST 2.9.0+
+
+Use '-help' to print detailed descriptions of command line arguments
+========================================================================
+
+Error:  (CArgException::eInvalidArg) Unknown argument: "quert"
+
+[2024/10/15 - 14:47:40 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+blastp -query dmel.faa -db wolbachia.db -out results.txt -evalue 1e-3 -outfmt 6
+
+[2024/10/15 - 14:47:46 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+lsl
+bash: lsl: command not found
+
+[2024/10/15 - 14:47:47 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+ls -ltrh
+total 1.5M
+-rw-r--r-- 1 cprele users 417K Aug  8 14:29 wolbachia.faa
+-rw-r--r-- 1 cprele users 2.5K Oct 15 14:43 dmel.faa
+-rw-r--r-- 1 cprele users 9.2K Oct 15 14:46 wolbachia.db.pin
+-rw-r--r-- 1 cprele users 154K Oct 15 14:46 wolbachia.db.phr
+-rw-r--r-- 1 cprele users 330K Oct 15 14:46 wolbachia.db.psq
+-rw-r--r-- 1 cprele users    0 Oct 15 14:47 results.txt
+
+[2024/10/15 - 14:47:49 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+ls -ltrh
+total 1.5M
+-rw-r--r-- 1 cprele users 417K Aug  8 14:29 wolbachia.faa
+-rw-r--r-- 1 cprele users 2.5K Oct 15 14:43 dmel.faa
+-rw-r--r-- 1 cprele users 9.2K Oct 15 14:46 wolbachia.db.pin
+-rw-r--r-- 1 cprele users 154K Oct 15 14:46 wolbachia.db.phr
+-rw-r--r-- 1 cprele users 330K Oct 15 14:46 wolbachia.db.psq
+-rw-r--r-- 1 cprele users    0 Oct 15 14:47 results.txt
+
+[2024/10/15 - 14:47:53 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+blastp -query dmel.faa -db nt -out results.txt -evalue 1e-3 -outfmt 6
+BLAST Database error: No alias or index file found for protein database [nt] in search path [/bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester:/bighome/cprele/cpr-thesis/testing:]
+
+[2024/10/15 - 14:48:07 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+blastp -query dmel.faa -db nt -out results.txt -evalue 1 -outfmt 6
+BLAST Database error: No alias or index file found for protein database [nt] in search path [/bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester:/bighome/cprele/cpr-thesis/testing:]
+
+[2024/10/15 - 14:50:36 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+blastp -query dmel.faa -db wolbachia.db -out results.txt -evalue 1 -outfmt 6
+
+[2024/10/15 - 14:50:49 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+ls
+dmel.faa  results.txt  wolbachia.db.phr  wolbachia.db.pin  wolbachia.db.psq  wolbachia.faa
+
+[2024/10/15 - 14:50:52 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+ls -ltrh
+total 1.5M
+-rw-r--r-- 1 cprele users 417K Aug  8 14:29 wolbachia.faa
+-rw-r--r-- 1 cprele users 2.5K Oct 15 14:43 dmel.faa
+-rw-r--r-- 1 cprele users 9.2K Oct 15 14:46 wolbachia.db.pin
+-rw-r--r-- 1 cprele users 154K Oct 15 14:46 wolbachia.db.phr
+-rw-r--r-- 1 cprele users 330K Oct 15 14:46 wolbachia.db.psq
+-rw-r--r-- 1 cprele users   76 Oct 15 14:50 results.txt
+
+[2024/10/15 - 14:50:54 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+cat results.txt 
+DmelRefSeq1.Shab-PA	WP_010962506.1	33.333	63	38	2	557	619	228	286	0.66	28.5
+
+[2024/10/15 - 14:50:58 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+blastp -query dmel.faa -db wolbachia.db -out results.txt -evalue 1 -outfmt 8
+
+[2024/10/15 - 14:51:07 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+lsl
+bash: lsl: command not found
+
+[2024/10/15 - 14:51:08 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+ls -ltrh
+total 1.5M
+-rw-r--r-- 1 cprele users 417K Aug  8 14:29 wolbachia.faa
+-rw-r--r-- 1 cprele users 2.5K Oct 15 14:43 dmel.faa
+-rw-r--r-- 1 cprele users 9.2K Oct 15 14:46 wolbachia.db.pin
+-rw-r--r-- 1 cprele users 154K Oct 15 14:46 wolbachia.db.phr
+-rw-r--r-- 1 cprele users 330K Oct 15 14:46 wolbachia.db.psq
+-rw-r--r-- 1 cprele users 2.0K Oct 15 14:51 results.txt
+
+[2024/10/15 - 14:51:10 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+rsub results.txt 
+/home/cprele/.local/bin/rsub: connect: Connection refused
+/home/cprele/.local/bin/rsub: line 412: /dev/tcp/localhost/52698: Connection refused
+Unable to connect to TextMate on localhost:52698
+
+[2024/10/15 - 14:51:14 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+cat results.txt 
+Seq-annot ::= {
+  desc {
+    user {
+      type str "Hist Seqalign",
+      data {
+        {
+          label str "Hist Seqalign",
+          data bool TRUE
+        }
+      }
+    },
+    user {
+      type str "Blast Type",
+      data {
+        {
+          label str "blastp",
+          data int 2
+        }
+      }
+    },
+    user {
+      type str "Blast Database Title",
+      data {
+        {
+          label str "wolbachia.faa",
+          data bool FALSE
+        }
+      }
+    }
+  },
+  data align {
+    {
+      type partial,
+      dim 2,
+      score {
+        {
+          id str "score",
+          value int 62
+        },
+        {
+          id str "blast_score",
+          value int 62
+        },
+        {
+          id str "e_value",
+          value real { 657735394926553, 10, -15 }
+        },
+        {
+          id str "bit_score",
+          value real { 284906059869199, 10, -13 }
+        },
+        {
+          id str "num_ident",
+          value int 21
+        },
+        {
+          id str "comp_adjustment_method",
+          value int 2
+        },
+        {
+          id str "num_positives",
+          value int 37
+        },
+        {
+          id str "hsp_percent_coverage",
+          value real { 689593908629442, 10, -14 }
+        }
+      },
+      segs denseg {
+        dim 2,
+        numseg 5,
+        ids {
+          local str "Query_1",
+          general {
+            db "BL_ORD_ID",
+            tag id 420
+          }
+        },
+        starts {
+          556,
+          227,
+          565,
+          -1,
+          566,
+          236,
+          588,
+          -1,
+          591,
+          258
+        },
+        lens {
+          9,
+          1,
+          22,
+          3,
+          28
+        },
+        strands {
+          unknown,
+          unknown,
+          unknown,
+          unknown,
+          unknown,
+          unknown,
+          unknown,
+          unknown,
+          unknown,
+          unknown
+        }
+      }
+    }
+  }
+}
+
+[2024/10/15 - 14:51:18 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+blastp -query dmel.faa -db wolbachia.db -out results.txt -evalue 1 -outfmt 7
+
+[2024/10/15 - 14:52:14 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+ls -ltrh
+total 1.5M
+-rw-r--r-- 1 cprele users 417K Aug  8 14:29 wolbachia.faa
+-rw-r--r-- 1 cprele users 2.5K Oct 15 14:43 dmel.faa
+-rw-r--r-- 1 cprele users 9.2K Oct 15 14:46 wolbachia.db.pin
+-rw-r--r-- 1 cprele users 154K Oct 15 14:46 wolbachia.db.phr
+-rw-r--r-- 1 cprele users 330K Oct 15 14:46 wolbachia.db.psq
+-rw-r--r-- 1 cprele users  599 Oct 15 14:52 results.txt
+
+[2024/10/15 - 14:52:16 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+cat results.txt 
+# BLASTP 2.9.0+
+# Query: DmelRefSeq1.Shab-PA
+# Database: wolbachia.db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+DmelRefSeq1.Shab-PA	WP_010962506.1	33.333	63	38	2	557	619	228	286	0.66	28.5
+# BLASTP 2.9.0+
+# Query: DmelRefSeq1.casp-PA
+# Database: wolbachia.db
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: DmelRefSeq1.CycB-PA
+# Database: wolbachia.db
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: DmelRefSeq1.lectin-33A-PB
+# Database: wolbachia.db
+# 0 hits found
+# BLAST processed 4 queries
+
+[2024/10/15 - 14:52:19 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+exit
+exit
+
+[2024/10/15 - 14:55:01 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+watch -d -n1 'sacct --format="JobID%24,JobName%30,Start,State,Elapsed%12,CPUTime%12,Partition" --user=cprele | grep -vE ".batch|.extern|COMPLETED|CANCELLED"'
+
+[2024/10/15 - 15:40:20 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+module avail
+---------------------------------------------------------------------- global/user modulerc -----------------------------------------------------------------------
+bio/edta_conda  bio/edta_new  gcc  price  price/1.2  stacks  stacks/1.4.2  star  star/2.5.3a  vcftools  vcftools/Mar1020  
+
+----------------------------------------------------------------- /usr/share/Modules/modulefiles ------------------------------------------------------------------
+dot  module-git  module-info  modules  null  opt-perl  opt-python  rocks-openmpi  rocks-openmpi_ib  use.own  
+
+--------------------------------------------------------------------- /share/apps/modulefiles ---------------------------------------------------------------------
+ant/1.10.14                  bio/phylobayes/1.6-slurm  compilers/intel/2020                  miniconda3/envs/LTR_retriever     physical/LAMMPS/gcc/22Aug2018      
+binutils/2.27                bio/porechop              compilers/intel/fakeintel             miniconda3/envs/qiime2-2020.6     physical/LAMMPS/gcc/050218         
+binutils/2.31.1              bio/poretally             compilers/intel/oneAPI2024            molden/6.9                        physical/LAMMPS/gcc/110917         
+bio/allpathslg               bio/price/1.2             compilers/intel/unknown               mpi/mpich/3.3.2-gcc               physical/LAMMPS/gcc/160416         
+bio/angsd/0.935-53-gf475f10  bio/Prothint/v524c27f     compilers/intel/util                  mpi/mpich/3.3.2-intel             physical/LAMMPS/gcc/220918         
+bio/ART/MountRainier         bio/purge_dups            compilers/ninja/1.11.0                mpi/mvapich/gcc/2.1               physical/LAMMPS/gcc/220918-gpu     
+bio/augustus/3.3.2           bio/pyrad/3.0.4           compilers/nvidia/20.7_gcc485_cuda110  mpi/mvapich/gcc/2.2/shared        physical/LAMMPS/intel/03Mar2020    
+bio/augustus/3.4.0           bio/qiime                 compilers/nvidia/20.7_gcc540_cuda110  mpi/mvapich/gcc/2.2/static        physical/LAMMPS/intel/110917       
+bio/bam-readcount            bio/qiime_2               compilers/nvidia/22.3_gcc540_cuda116  mpi/mvapich/intel/1.2.0           physical/LAMMPS/intel/171116-avx   
+bio/bamtools/2.5.2           bio/quast/4.4             compilers/nvidia/toolkit_10.0         mpi/mvapich/intel/2-1.9a2-shared  physical/LAMMPS/intel/220918       
+bio/bamtools/2391b1a         bio/quast/5.0             compilers/pgi                         mpi/mvapich/intel/2-1.9a2-static  physical/LAMMPS/intel/220918-gpu   
+bio/bbmap/37.32              bio/quickmerge            cURL/7.82.0_gcc-9.1.0                 mpi/mvapich/intel/2-1.9a2/shared  physical/LAMMPS/intel/Oct292020    
+bio/beast/2.6.6              bio/racer                 Delphes2                              mpi/mvapich/intel/2-1.9a2/static  physical/LAMMPS/unknown            
+bio/bgc/1.0.3                bio/racon/1.3.2           dmtcp/2.5.2                           mpi/openmpi/3.1.1-gpu             physical/moose                     
+bio/bioinfo-gcc              bio/raxml/8.2.4           eigen/eigen.old                       mpi/openmpi/gcc/1.6.4             physical/orca/4.2.0                
+bio/bioinfo-java             bio/raxml/8.2.12          eigen/eigen3.4                        mpi/openmpi/gcc/1.8.4             physical/orca/5.0.1                
+bio/bismark                  bio/raxml/ng              fftw2                                 mpi/openmpi/gcc/1.10.2            physical/orca/5.0.2                
+bio/blast/2.3.0              bio/reapr/1.0.18          fftw3/gcc4.3.5                        mpi/openmpi/gcc/2.1.2             physical/orca/5.0.2-chpc           
+bio/blast/2.9.0              bio/redundans             fftw3/gcc5.4.0                        mpi/openmpi/gcc/3.1.1             physical/orca/5.0.3                
+bio/blat                     bio/repeatmodeler/1.0.8   fftw3/unknown                         mpi/openmpi/gcc/3.1.6             physical/phana/2.75                
+bio/bowtie/1.1.2             bio/repeatmodeler/2.0.3   foamextend/4.0                        mpi/openmpi/gcc/3.1.6_uahpc       physical/phreeqcrm/3.4.0           
+bio/bowtie/2.2.5             bio/salmon/0.11.3         gaussian/g03.e01                      mpi/openmpi/gcc/4.1.1             physical/proj/6.2.0                
+bio/bowtie/2.3               bio/salmon/1.3.0          gaussian/g09.d01                      mpi/openmpi/gcc/4.1.1-chpc        physical/pwtk/2.0                  
+bio/braker/v54322a4          bio/salsa                 gaussian/g16.a03                      mpi/openmpi/gcc/4.1.4             physical/pythia/8                  
+bio/busco                    bio/samtools/1.6          gccutil                               mpi/openmpi/gcc/4.1.5_gcc_11.1.0  physical/pythia/8.12               
+bio/canu/1.9                 bio/samtools/1.9          geos/3.3.3                            mpi/openmpi/intel/1.6.4           physical/rotcfd/0.9.15             
+bio/canu/2.0                 bio/samtools/1.10         geos/3.10.1-gcc540                    mpi/openmpi/intel/1.8.4           physical/sprnt                     
+bio/canu/2.1                 bio/selscan               go/1.16.2                             mpi/openmpi/intel/2.1.2           physical/uintah                    
+bio/chiron                   bio/sga                   googletest/1.13.0                     mpi/openmpi/intel/3.1.1           physical/VASP/5.2                  
+bio/chirontest               bio/snakemake             gsl/1.15                              mpi/openmpi/intel/4.1.1           physical/VASP/5.3                  
+bio/cufflinks/2.2.1          bio/snpeff                gsl/2.4                               msgpack/c/6.0.0                   physical/VASP/5.4.1                
+bio/diyabc                   bio/spades/3.14.0         gsl/2.7.1                             msgpack/cpp/6.0.0                 physical/VASP/5.4.4                
+bio/edta                     bio/sratoolkit/2.9.2      gurobi                                ncl-ncar                          physical/VASP/5.4.4ctest           
+bio/edta_1_9_6               bio/sratoolkit/3.0.7      hdf4/4.2.14                           netcdf/gcc/3.6.3                  physical/VASP/6.1.0                
+bio/energyplus/8.7.0         bio/stacks/1.4.2          hdf5/1.8.9                            netcdf/gcc/4.6.1                  physical/VASP/6.2.0_cpu            
+bio/energyplus/8.9.0         bio/stacks/2.53           hdf5/1.8.13                           netcdf/gcc/4.6.2                  physical/VASP/6.2.0_gpu            
+bio/evm/1.1.1                bio/star/2.5.3a           hdf5/1.8.17                           netcdf/gcc/4.7.3-mpich            physical/VASP/6.2.1.VTST           
+bio/fastqc/0.11.5            bio/stringtie/2.2.1       hdf5/gcc/1.8.20                       netcdf/gcc/shared                 physical/VASP/6.3.2                
+bio/fastsimcoal/2.5.2.21     bio/structure/2.3.4       hdf5/gcc/1.10.4                       netcdf/intel/1.9.0                physical/VASP/dftd4                
+bio/faststructure            bio/supernova/2.0.0       hdf5/gcc/1.10.6-mpich                 netcdf/intel/4.6.1                physical/wgrib/1.8.1.0b            
+bio/freebayes/1.2.0          bio/tophat/2.1.1          hdf5/intel/1.8.13                     netcdf/intel/4.6.2                physical/WRF/Hydro/3.0             
+bio/freebayes/latest         bio/transdecoder/2.0.1    hdf5/intel/1.8.20                     netcdf/intel/4.7.3-mpich          physical/WRF/Hydro/5.0             
+bio/freesurfer/6.0.0         bio/transdecoder/5.5.0    hdf5/intel/1.10.4                     netcdf/intel/4.9.2                physical/WRF/WPS/4.4               
+bio/freesurfer/7.1.1         bio/transposome/0.12.1    hdf5/intel/1.10.6-mpich               netcdf/intel/shared               pythia8                            
+bio/fsl                      bio/trimgalore/0.4.2      hdf5/intel/1.12.1-openmpi             nxnastran/12                      python/Anaconda2/2.7               
+bio/gala                     bio/trinity/2.2.0         hdf5/intel/1.14.4                     nxnastran/unknown                 python/Anaconda3/3.4               
+bio/gatk                     bio/trinity/2.8.4         ipm/2.0.3                             octave                            python/Anaconda3/tensorflow-1.1.0  
+bio/genemark/4.38            bio/trinity/2.10.0        java/1.7.0                            openal/1.20.1                     python/python2/2.5                 
+bio/genemark/4_6_8           bio/trinity/2.14.0        java/1.8.0                            openblas/0.3.9                    python/python2/2.5shared           
+bio/generax                  bio/upp                   java/1.8.202                          openblas/0.3.20-gccv9.1.0         python/python2/2.6                 
+bio/gmap                     bio/vcflib                java/11.0.2                           openfoam/1806                     python/python2/2.6shared           
+bio/GRiD                     bio/vcflib_latest         java/17.0.11                          parmetis/gcc/shared/4.0.3         python/python2/2.7                 
+bio/hifiasm                  bio/vcftools/Mar1020      julia/1.6.2                           parmetis/gcc/static/4.0.3         python/python2/2.7.11              
+bio/hisat/2.0.5              bio/velvet/1.2.10         kokkos/3.4.1_gcc_8.1.0                parmetis/intel/shared/4.0.3       python/python2/2.7.11shared        
+bio/hmmer/3.1b2              bio/vtk/5.6               lhapdf/6.1.5                          parmetis/intel/static/4.0.3       python/python2/2.7.15shared        
+bio/hyphy/2.7.0              bio/wgs/8.3rc2            libexpat/2.4.7                        parthenon/0.6.1                   python/python2/2.7shared           
+bio/ima2p                    boost/1.55.0              mamba                                 perl/5.22.1                       python/python3/3.2                 
+bio/interproscan/5.19        boost/1.60.0              math/adcirc/51.52.29                  perl/5.22.1threaded               python/python3/3.2shared           
+bio/ivc/1.0.7                boost/1.66.0              math/cplex/12.8.0                     petsc/3.3-p7                      python/python3/3.3                 
+bio/jags/4.3.0               boost/1.72.0              math/cplex/20.1.0                     petsc/3.3-p7-gcc-mpich            python/python3/3.3shared           
+bio/kallisto/0.43.1          boost/1.77.0              math/mathematica/10.4.0               petsc/3.3-p7-intel-mpich          python/python3/3.4shared           
+bio/KMC                      boost/1.81.0              math/mathematica/12.3.1               petsc/3.11.2                      python/python3/3.6.5               
+
+
+[2024/10/15 - 15:40:33 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder/code/xenolog_tester
+cd ../..
+
+[2024/10/15 - 15:40:36 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder
+lsl
+total 88K
+-rw-r--r-- 1 cprele  255 Oct  5 19:32 README.md
+drwxr-xr-x 4 cprele 4.0K Oct  5 19:35 data
+drwxr-xr-x 6 cprele 4.0K Oct 15 14:41 code
+
+[2024/10/15 - 15:40:36 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/03-orthofinder
+cd ../
+
+[2024/10/15 - 15:40:41 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats
+lsl
+total 120K
+drwxr-xr-x 2 cprele 4.0K Oct  5 19:16 01-busco
+drwxr-xr-x 2 cprele 4.0K Oct  5 19:16 02-repeats
+-rw-r--r-- 1 cprele  523 Oct  5 19:27 README.md
+drwxr-xr-x 4 cprele 4.0K Oct  5 19:35 03-orthofinder
+
+[2024/10/15 - 15:40:41 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats
+cd 01-busco/
+
+[2024/10/15 - 15:40:44 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco
+lsl
+total 0
+
+[2024/10/15 - 15:40:44 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco
+mkdir code
+
+[2024/10/15 - 15:40:46 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco
+cd code/
+
+[2024/10/15 - 15:40:47 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/code
+cp ../../03-orthofinder/code/orthofinder.sh ./busco.sh
+
+[2024/10/15 - 15:40:56 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/code
+rsub busco.sh 
+
+[2024/10/15 - 15:41:00 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/code
+rsub busco.sh 
+
+[2024/10/15 - 15:42:20 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/code
+cd ../
+
+[2024/10/15 - 15:42:45 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco
+mkdir data/{formatted,raw}
+mkdir: cannot create directory ‘data/formatted’: No such file or directory
+mkdir: cannot create directory ‘data/raw’: No such file or directory
+
+[2024/10/15 - 15:42:54 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco
+mkdir -p data/{formatted,raw}
+
+[2024/10/15 - 15:42:59 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco
+tree
+.
+├── code
+│   └── busco.sh
+└── data
+    ├── formatted
+    └── raw
+
+4 directories, 1 file
+
+[2024/10/15 - 15:43:00 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco
+cd data/raw
+
+[2024/10/15 - 15:47:19 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+mkdir genomes
+
+[2024/10/15 - 15:47:22 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+cd genomes/
+
+[2024/10/15 - 15:47:24 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+lsl
+total 0
+
+[2024/10/15 - 15:47:25 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+cp ../../../../
+01-busco/       02-repeats/     03-orthofinder/ README.md       
+
+[2024/10/15 - 15:47:25 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+cp ../../../../../ch2-regR_and_CDS_evolution/01-identifying_cds_transcript/data/raw/
+assembly_sequence/       gene_list/               RefSeq_predictions/      unique_protein_cds.list  
+.DS_Store                README.md                Spaln/                   
+
+[2024/10/15 - 15:47:25 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+cp ../../../../../ch2-regR_and_CDS_evolution/01-identifying_cds_transcript/data/raw/assembly_sequence/
+DalbRefSeq1.fa      DbusRefSeq1.fa      DgriRefSeq2.fa      DmelRefSeq1.fa      DobsRefSeq2.fa      DsecRefSeq1.fa      DsuzRefSeq2.fa      DyakRefSeq3.fa
+DalbRefSeq1.fa.fai  DbusRefSeq1.fa.fai  DgriRefSeq2.fa.fai  DmelRefSeq1.fa.fai  DobsRefSeq2.fa.fai  DsecRefSeq1.fa.fai  DsuzRefSeq2.fa.fai  DyakRefSeq3.fa.fai
+DanaRefSeq2.fa      DeleRefSeq2.fa      DguaRefSeq1.fa      DmirRefSeq1.fa      DperRefSeq1.fa      DserRefSeq1.fa      DtakRefSeq2.fa      README.md
+DanaRefSeq2.fa.fai  DeleRefSeq2.fa.fai  DguaRefSeq1.fa.fai  DmirRefSeq1.fa.fai  DperRefSeq1.fa.fai  DserRefSeq1.fa.fai  DtakRefSeq2.fa.fai  
+DariRefSeq1.fa      DereRefSeq1.fa      DhydRefSeq1.fa      DmojRefSeq2.fa      DpseRefSeq1.fa      DsimRefSeq3.fa      DteiRefSeq1.fa      
+DariRefSeq1.fa.fai  DereRefSeq1.fa.fai  DhydRefSeq1.fa.fai  DmojRefSeq2.fa.fai  DpseRefSeq1.fa.fai  DsimRefSeq3.fa.fai  DteiRefSeq1.fa.fai  
+DbiaRefSeq2.fa      DeugRefSeq2.fa      DkikRefSeq2.fa      DnavRefSeq1.fa      DrhoRefSeq2.fa      DsobRefSeq1.fa      DvirRefSeq1.fa      
+DbiaRefSeq2.fa.fai  DeugRefSeq2.fa.fai  DkikRefSeq2.fa.fai  DnavRefSeq1.fa.fai  DrhoRefSeq2.fa.fai  DsobRefSeq1.fa.fai  DvirRefSeq1.fa.fai  
+DbipRefSeq2.fa      DficRefSeq2.fa      DmauRefSeq1.fa      DnovRefSeq1.fa      DsanRefSeq2.fa      DspuRefSeq1.fa      DwilRefSeq2.fa      
+DbipRefSeq2.fa.fai  DficRefSeq2.fa.fai  DmauRefSeq1.fa.fai  DnovRefSeq1.fa.fai  DsanRefSeq2.fa.fai  DspuRefSeq1.fa.fai  DwilRefSeq2.fa.fai  
+
+[2024/10/15 - 15:47:25 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+rsync ../../../../../ch2-regR_and_CDS_evolution/01-identifying_cds_transcript/data/raw/assembly_sequence/* ./
+^Crsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(557) [sender=3.0.9]
+
+[2024/10/15 - 15:48:05 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+lsl
+total 841M
+-rw-r--r-- 1 cprele 162M Oct 15 15:47 DalbRefSeq1.fa
+-rw-r--r-- 1 cprele  381 Oct 15 15:48 DalbRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 208M Oct 15 15:48 DanaRefSeq2.fa
+-rw-r--r-- 1 cprele 4.8K Oct 15 15:48 DanaRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 138M Oct 15 15:48 DariRefSeq1.fa
+-rw-r--r-- 1 cprele 106K Oct 15 15:48 DariRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 181M Oct 15 15:48 DbiaRefSeq2.fa
+-rw-r--r-- 1 cprele 9.5K Oct 15 15:48 DbiaRefSeq2.fa.fai
+
+[2024/10/15 - 15:48:06 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+rsync --info=progress2 ../../../../../ch2-regR_and_CDS_evolution/01-identifying_cds_transcript/data/raw/assembly_sequence/* ./
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at main.c(1435) [client=3.0.9]
+
+[2024/10/15 - 15:48:16 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+rsync ../../../../../ch2-regR_and_CDS_evolution/01-identifying_cds_transcript/data/raw/assembly_sequence/* ./
+
+[2024/10/15 - 15:49:11 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+lsla
+total 7.4G
+drwxr-xr-x 3 cprele 4.0K Oct 15 15:47 ..
+-rw-r--r-- 1 cprele 162M Oct 15 15:48 DalbRefSeq1.fa
+-rw-r--r-- 1 cprele  381 Oct 15 15:48 DalbRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 208M Oct 15 15:48 DanaRefSeq2.fa
+-rw-r--r-- 1 cprele 4.8K Oct 15 15:48 DanaRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 138M Oct 15 15:48 DariRefSeq1.fa
+-rw-r--r-- 1 cprele 106K Oct 15 15:48 DariRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 181M Oct 15 15:48 DbiaRefSeq2.fa
+-rw-r--r-- 1 cprele 9.5K Oct 15 15:48 DbiaRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 188M Oct 15 15:48 DbipRefSeq2.fa
+-rw-r--r-- 1 cprele 4.3K Oct 15 15:48 DbipRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 116M Oct 15 15:48 DbusRefSeq1.fa
+-rw-r--r-- 1 cprele 3.2K Oct 15 15:48 DbusRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 174M Oct 15 15:48 DeleRefSeq2.fa
+-rw-r--r-- 1 cprele  24K Oct 15 15:48 DeleRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 143M Oct 15 15:48 DereRefSeq1.fa
+-rw-r--r-- 1 cprele 3.3K Oct 15 15:48 DereRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 161M Oct 15 15:48 DeugRefSeq2.fa
+-rw-r--r-- 1 cprele  71K Oct 15 15:48 DeugRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 164M Oct 15 15:48 DficRefSeq2.fa
+-rw-r--r-- 1 cprele  28K Oct 15 15:48 DficRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 187M Oct 15 15:48 DgriRefSeq2.fa
+-rw-r--r-- 1 cprele  47K Oct 15 15:48 DgriRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 137M Oct 15 15:48 DguaRefSeq1.fa
+-rw-r--r-- 1 cprele 440K Oct 15 15:48 DguaRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 150M Oct 15 15:48 DhydRefSeq1.fa
+-rw-r--r-- 1 cprele 7.4K Oct 15 15:48 DhydRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 184M Oct 15 15:48 DkikRefSeq2.fa
+-rw-r--r-- 1 cprele  15K Oct 15 15:48 DkikRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 149M Oct 15 15:48 DmauRefSeq1.fa
+-rw-r--r-- 1 cprele  13K Oct 15 15:48 DmauRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 140M Oct 15 15:48 DmelRefSeq1.fa
+-rw-r--r-- 1 cprele  62K Oct 15 15:48 DmelRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 280M Oct 15 15:48 DmirRefSeq1.fa
+-rw-r--r-- 1 cprele 3.6K Oct 15 15:48 DmirRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 159M Oct 15 15:48 DmojRefSeq2.fa
+-rw-r--r-- 1 cprele 9.8K Oct 15 15:48 DmojRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 144M Oct 15 15:48 DnavRefSeq1.fa
+-rw-r--r-- 1 cprele 452K Oct 15 15:48 DnavRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 173M Oct 15 15:48 DnovRefSeq1.fa
+-rw-r--r-- 1 cprele 9.4K Oct 15 15:48 DnovRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 175M Oct 15 15:48 DobsRefSeq2.fa
+-rw-r--r-- 1 cprele 7.3K Oct 15 15:48 DobsRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 191M Oct 15 15:48 DperRefSeq1.fa
+-rw-r--r-- 1 cprele  15K Oct 15 15:48 DperRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 159M Oct 15 15:48 DpseRefSeq1.fa
+-rw-r--r-- 1 cprele 2.4K Oct 15 15:48 DpseRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 189M Oct 15 15:48 DrhoRefSeq2.fa
+-rw-r--r-- 1 cprele 7.7K Oct 15 15:48 DrhoRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 143M Oct 15 15:48 DsanRefSeq2.fa
+-rw-r--r-- 1 cprele 3.6K Oct 15 15:48 DsanRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 150M Oct 15 15:48 DsecRefSeq1.fa
+-rw-r--r-- 1 cprele  14K Oct 15 15:48 DsecRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 193M Oct 15 15:48 DserRefSeq1.fa
+-rw-r--r-- 1 cprele  46K Oct 15 15:48 DserRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 129M Oct 15 15:48 DsimRefSeq3.fa
+-rw-r--r-- 1 cprele 3.3K Oct 15 15:48 DsimRefSeq3.fa.fai
+-rw-r--r-- 1 cprele 123M Oct 15 15:49 DsobRefSeq1.fa
+-rw-r--r-- 1 cprele 1.1K Oct 15 15:49 DsobRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 258M Oct 15 15:49 DspuRefSeq1.fa
+-rw-r--r-- 1 cprele  11K Oct 15 15:49 DspuRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 261M Oct 15 15:49 DsuzRefSeq2.fa
+-rw-r--r-- 1 cprele  19K Oct 15 15:49 DsuzRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 162M Oct 15 15:49 DtakRefSeq2.fa
+-rw-r--r-- 1 cprele 4.2K Oct 15 15:49 DtakRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 146M Oct 15 15:49 DteiRefSeq1.fa
+-rw-r--r-- 1 cprele 3.2K Oct 15 15:49 DteiRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 185M Oct 15 15:49 DvirRefSeq1.fa
+-rw-r--r-- 1 cprele 7.5K Oct 15 15:49 DvirRefSeq1.fa.fai
+-rw-r--r-- 1 cprele 241M Oct 15 15:49 DwilRefSeq2.fa
+-rw-r--r-- 1 cprele  26K Oct 15 15:49 DwilRefSeq2.fa.fai
+-rw-r--r-- 1 cprele 144M Oct 15 15:49 DyakRefSeq3.fa
+-rw-r--r-- 1 cprele 1.9K Oct 15 15:49 DyakRefSeq3.fa.fai
+-rw-r--r-- 1 cprele  337 Oct 15 15:49 README.md
+drwxr-xr-x 2 cprele  12K Oct 15 15:49 .
+
+[2024/10/15 - 15:49:37 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/genomes
+cd ..
+
+[2024/10/15 - 15:51:07 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+lsl
+total 64K
+drwxr-xr-x 2 cprele 12K Oct 15 15:49 genomes
+
+[2024/10/15 - 15:51:08 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+mkdir lsl
+
+[2024/10/15 - 15:52:34 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+lsl
+total 96K
+drwxr-xr-x 2 cprele  12K Oct 15 15:49 genomes
+drwxr-xr-x 2 cprele 4.0K Oct 15 15:52 lsl
+
+[2024/10/15 - 15:52:37 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+rmdir lsl
+
+[2024/10/15 - 15:52:40 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+mkdir lineages
+
+[2024/10/15 - 15:52:54 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+rsub README.md
+
+[2024/10/15 - 15:52:58 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw
+cd lineages/
+
+[2024/10/15 - 15:56:43 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/lineages
+lsl
+total 0
+
+[2024/10/15 - 15:56:43 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/lineages
+which busco
+/usr/bin/which: no busco in (/share/apps/RAxML/8.2.4:/share/apps/intel/ics/2011.0.013/bin:/share/apps/intel/itac/8.0.1.009/bin:/share/apps/intel/impi/4.0.1.007/intel64/bin:/share/apps/intel/composerxe-2011.0.084/bin/intel64:/share/apps/intel/composerxe-2011.0.084/mpirt/bin/intel64:/share/apps/intel/bin:/share/apps/samtools/1.10/bin:/share/apps/blastp/ncbi-blast-2.9.0+/bin:/home/cprele/.local/bin:/share/apps/python/3.9.6/bin:/share/apps/cURL/curl_7.82.0/bin:/share/apps/gcc/9.1.0/bin:/home/cprele/.linuxbrew/bin:/home/cprele/.linuxbrew/sbin:/home/cprele/meme/bin:/home/cprele/meme/libexec/meme-5.5.5:/home/cprele/meme/bin:/home/cprele/meme/libexec/meme-5.5.7:/usr/lib64/qt-3.3/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/ganglia/bin:/opt/ganglia/sbin:/opt/ibutils/bin:/opt/pdsh/bin:/opt/rocks/bin:/opt/rocks/sbin:/home/cprele/.local/bin:/home/cprele/bin)
+
+[2024/10/15 - 15:56:45 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/lineages
+module load bio/busco
+Loading python/python3/3.6.5shared
+  ERROR: Module cannot be loaded due to a conflict.
+    HINT: Might try "module unload python" first.
+
+Loading bio/upp
+  ERROR: Requirement python/python3/3.6.5shared is not loaded
+
+Loading bio/busco
+  ERROR: Load of requirement python/python3/3.6.5shared failed
+  ERROR: Load of requirement bio/upp failed
+
+[2024/10/15 - 15:56:51 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/lineages
+module unload python
+
+[2024/10/15 - 15:57:06 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/lineages
+module load python/python3/3.6.5shared
+Loading python/python3/3.6.5shared
+  Loading requirement: physical/GDAL2/2.4.0
+
+[2024/10/15 - 15:57:16 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/lineages
+module load bio/busco
+Loading bio/busco
+  Loading requirement: mpi/openmpi/gcc/1.10.2 compilers/gcc/4.8.4 bio/allpathslg perl/5.22.1threaded bio/bioinfo-gcc gsl/1.15 boost/1.66.0 bio/augustus/3.3.2
+    java/1.8.0 bio/upp
+
+[2024/10/15 - 15:57:20 - Rele, C.P.] UAHPC @ /bighome/cprele/cpr-thesis/ch1-assembly_stats/01-busco/data/raw/lineages
+which busco

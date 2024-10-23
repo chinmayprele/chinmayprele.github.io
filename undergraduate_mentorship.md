@@ -13,8 +13,8 @@ parent: Mentorship
 0. **Caitlin M. Stanley** Athens State University, AL _Summer 2024_
 0. **Maliya Trevino** University of Alabama, AL _Summer 2024_
 <!-- Spring 2024 -->
-0. **Meghan L. Green** University of Alabama, AL _Spring 2024_
-0. **Ali Moslehi-Nik** University of Alabama, AL _Spring 2024_
+0. **Meghan L. Green** University of Alabama, AL _Spring 2024 &rarr; Summer 2024_
+0. **Ali Moslehi-Nik** University of Alabama, AL _Spring 2024 &rarr; Summer 2024_
 <!-- Fall 2022 -->
 0. **Madeline L. Gruys** Bemidji State University, Bemidji, MN _Fall 2020 &rarr; Summer 2024_
 0. **Bethany C. Lieser** Anoka-Ramsey Community College, Cambridge, MN _Fall 2020 &rarr; Summer 2024_
