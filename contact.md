@@ -65,6 +65,12 @@ Please feel free to contact me with questions, or if you would like some more in
         #reveal-button {
             cursor: pointer;
         }
+  #email-id {
+            display: none;
+        }
+        #reveal-button {
+            cursor: pointer;
+        }
   p {
             margin: 0;
             padding: 0;
