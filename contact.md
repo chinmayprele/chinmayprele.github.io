@@ -35,7 +35,7 @@ Please feel free to contact me with questions, or if you would like some more in
 <dl>
   <dt>Email</dt>
   <dd>  <button onclick="revealEmail()" id="reveal-email">Reveal Email</button>
-        <p id="email-id"><a href="mailto:cprele@ua.edu?cc=cprele@crimson.ua.edu, rele.chinmay.gep@gmail.com&subject=Contact%20from%20GitHub%20Pages%20Website">test</a> </p> </dd>
+        <p id="email-id"><a href="mailto:cprele@ua.edu?cc=cprele@crimson.ua.edu, rele.chinmay.gep@gmail.com&subject=Contact%20from%20GitHub%20Pages%20Website">cprele@ua.edu</a> </p> </dd>
   <dt>Cell Number</dt>
   <dd>  <button onclick="revealPhone()" id="reveal-phone">Reveal Phone Number</button>
         <p id="phone-number"><a href="tel:19739326516">+1 (973) 932 6516</a></p>  </dd>
@@ -59,23 +59,15 @@ Please feel free to contact me with questions, or if you would like some more in
     width: 100% !important;
     height: 100% !important;
   }
-  #phone-number {
-            display: none;
-        }
-        #reveal-button {
-            cursor: pointer;
-        }
-  #email-id {
-            display: none;
-        }
-        #reveal-button {
-            cursor: pointer;
-        }
+  #phone-number { display: none; }
+  #reveal-phone { cursor: pointer; }
+  #email-id { display: none; } 
+  #reveal-email { cursor: pointer; }
   p {
-            margin: 0;
-            padding: 0;
-            display: inline;
-        }
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
 
 </style>
 <div class="google-maps">
