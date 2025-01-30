@@ -36,7 +36,7 @@ Please feel free to contact me with questions, or if you would like some more in
   <dt>Email</dt>
   <dd><a href="mailto:cprele@ua.edu?cc=cprele@crimson.ua.edu, rele.chinmay.gep@gmail.com&subject=Contact%20from%20GitHub%20Pages%20Website">cprele@ua.edu</a></dd>
   <dt>Cell Number</dt>
-  <dd>  <p id="reveal-button" onclick="revealPhone()">Reveal Phone Numer</p>
+  <dd>  <button onclick="revealPhone()">Reveal Phone Numer</button>
         <p id="phone-number"><a href="tel:19739326516">+1 (973) 932 6516</a></p>  </dd>
   <dt>Office Number</dt>
   <dd><a href="tel:12053480929">+1 (205) 348 0929</a></dd>
