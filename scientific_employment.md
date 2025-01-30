@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 ---
 
-0. **IT Technical Specialist**, Genomics Education Partnership, Univertsity of Alabama, Tuscaloosa (_2019 &rarr; Present_)
+0. **IT Technical Specialist**, Genomics Education Partnership, Univertsity of Alabama, Tuscaloosa (_2019 &rarr; 2024_)
 	- Focused on building and maintaining the microPublication pipeline
 	- Reconciling gene models
 	- Training reconcilers and annotators for student models
