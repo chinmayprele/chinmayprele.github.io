@@ -34,9 +34,9 @@ Please feel free to contact me with questions, or if you would like some more in
 
 <dl>
   <dt>Email</dt>
-  <dd><a href="mailto:cprele@ua.edu?cc=cprele@crimson.ua.edu, rele.chinmay.gep@gmail.com&subject=Contact%20from%20GitHub%20Pages%20Website">cprele@ua.edu</a></dd>
+  <dd><button onclick="revealemail()" id="reveal-email">Reveal Email</button><p id="email"><a href="mailto:cprele@ua.edu?cc=cprele@crimson.ua.edu, rele.chinmay.gep@gmail.com&subject=Contact%20from%20GitHub%20Pages%20Website">cprele@ua.edu</a></p></dd>
   <dt>Cell Number</dt>
-  <dd>  <button onclick="revealPhone()" id="reveal-button">Reveal Phone Numer</button>
+  <dd>  <button onclick="revealPhone()" id="reveal-phone">Reveal Phone Number</button>
         <p id="phone-number"><a href="tel:19739326516">+1 (973) 932 6516</a></p>  </dd>
   <dt>Office Number</dt>
   <dd><a href="tel:12053480929">+1 (205) 348 0929</a></dd>
@@ -79,6 +79,10 @@ Please feel free to contact me with questions, or if you would like some more in
 <script>
     function revealPhone() {
         document.getElementById("phone-number").style.display = "block";
-        document.getElementById("reveal-button").style.display = "none";
+        document.getElementById("reveal-phone").style.display = "none";
+    }
+    function revealPhone() {
+        document.getElementById("email").style.display = "block";
+        document.getElementById("reveal-email").style.display = "none";
     }
 </script>
