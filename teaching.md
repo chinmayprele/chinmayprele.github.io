@@ -1,15 +1,25 @@
 ---
-title: Research Products
+title: Teaching
 layout: default
-nav_order: 10
-has_children: true
-has_toc: true
+nav_order: 6
 ---
 
-The following annotations only apply to published/completed works
-- Award-winning products <u>underlined</u>
-- Correspondence <span style="background-color: #70707030">highlighted</span>
-- Undergraduate author in superscript<sup>U</sup>
 
-Please navigate to the appropriate mentorship sections in the sidebar to the __left__.
-Or below under the _Table of Contents_.
+# The University of Alabama
+
+## 2024 Spring
+
+0. BSC117 Intro to Biology Lab 2 Section 5
+0. BSC117 Intro to Biology Lab 2 Section 6
+{: reversed="reversed"}
+
+## 2024 Fall
+
+0. BSC115 Intro to Biology Lab 1 Section 30
+0. BSC115 Intro to Biology Lab 1 Section 31
+{: reversed="reversed"}
+
+## 2023 Spring
+
+0. BSC497 Intro to Genomics Research _with [Laura K. Reed](https://flygxe.ua.edu)_
+{: reversed="reversed"}
