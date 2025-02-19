@@ -1,67 +1,81 @@
 ---
 title: Undergraduate Mentorship
 layout: default
-nav_order: 9
-has_children: false
+nav</i>order: 9
+has</i>children: false
 parent: Mentorship
 ---
 
+<style>
+ol.reversed {
+  counter-reset: reversed-counter; /* JavaScript will set the correct number */
+}
+
+ol.reversed li {
+  list-style: none;
+  counter-increment: reversed-counter -1;
+  position: relative;
+}
+
+ol.reversed li::before {
+  content: counter(reversed-counter, decimal) ". ";
+  position: absolute;
+  left: -2em;
+}
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("ol.reversed").forEach(ol => {
+      ol.style.counterReset = `reversed-counter ${ol.children.length + 1}`;
+    });
+  });
+</script>
+
 # Undergraduate Students
 
-<!-- Summer 2024 -->
-0. **Bushrah Mohamed-Elmabruk Rashrash** Grand Valley State University, MI _Summer 2024_
-0. **Caitlin M. Stanley** Athens State University, AL _Summer 2024_
-0. **Maliya Trevino** University of Alabama, AL _Summer 2024_
-<!-- Spring 2024 -->
-0. **Meghan L. Green** University of Alabama, AL _Spring 2024 &rarr; Summer 2024_
-0. **Ali Moslehi-Nik** University of Alabama, AL _Spring 2024 &rarr; Summer 2024_
-<!-- Fall 2022 -->
-0. **Madeline L. Gruys** Bemidji State University, Bemidji, MN _Fall 2020 &rarr; Summer 2024_
-0. **Bethany C. Lieser** Anoka-Ramsey Community College, Cambridge, MN _Fall 2020 &rarr; Summer 2024_
-<!-- Summer 2022 -->
-0. **Graham M. Jones** University of Alabama, AL _Summer 2022 &rarr; Spring 2023_
-0. **Megan E. Lawson** University of Alabama, AL _Summer 2022 &rarr; Summer 2024_
-0. **Gabriella N. Bickanovsky** University of Alabama, AL _Summer 2022 &rarr; Spring 2024_
-0. **Jamarcus D. Monroe** University of Alabama, AL _Summer 2022_
-<!-- Fall 2021 -->
-0. **Jonah Silverman** Muhlenberg College, PA _Fall 2021 &rarr; Fall 2022_
-<!-- Summer 2023 -->
-0. **Jhilam Dasgupta** University of Alabama, AL _Summer 2021 &rarr; Spring 2023_
-0. **Alyssa C. Koehler**[^alyssackoehler] University of Alabama, AL _Summer 2021 &rarr; Summer 2022_
-0. **Ashley E. Morgan** University of Alabama, AL _Summer 2021 &rarr; Fall 2021_
-0. **Ryan Dufur** Oklahoma Christian University, OK _Summer 2021_
-0. **James O'Brien** Oklahoma Christian University, OK _Summer 2021_
-0. **Aidan Long** Oklahoma Christian University, OK _Summer 2021_
-<!-- Spring 2021 -->
-0. **Ethan Abizadeh** Yeshiva University, NY _Spring 2021_
-0. **Annie E. Backlund** University of Alabama, AL _Spring 2021 &rarr; Spring 2023_
-0. **Jordan Albrecht** University of Alabama, AL _Spring 2021 &rarr; Spring 2023_
-0. **Allie J. Miller** University of Alabama, AL _Spring 2021 &rarr; Fall 2021_
-<!-- Fall 2020 -->
-0. **Rachael A. Cowan** University of Alabama, AL _Fall 2020 &rarr; Fall 2021_
-0. **Abigail Ruesy** University of Alabama, AL _Fall 2020 &rarr; Spring 2021_
-0. **Samantha A. Hoffman**[^samanthaahoffman] University of Alabama, AL _Fall 2020 &rarr; Spring 2021_
-0. **Sean Shelley-Tremblay** University of Alabama, AL _Fall 2020 &rarr; Fall 2021_
-0. **Ines Martinand** University of Alabama, AL _Fall 2020 &rarr; Spring 2021_
-0. **Abbie A. Giunta** University of Alabama, AL _Fall 2020 &rarr; Spring 2023_
-0. **John M. Yordy** University of Alabama, AL _Fall 2020 &rarr; Spring 2023_
-0. **Leon F. Laskowski**[^leonflaskowski] University of St. Francis, IL _Fall 2020 &rarr; Summer 2021_
-<!-- Summer 2020 -->
-0. **Abigail R. Myers**[^abigailrmyers] University of Alabama, AL _Spring 2020 &rarr; Summer 2022_
-0. **Robyn Huber** Bemidji State University, MN _Summer 2020_
-<!-- Spring 2020 -->
-0. **Bailey Lose** University of Alabama, AL _Spring 2020 &rarr; Spring 2021_
-0. **Madison A. Sharp**[^madisonasharp] University of Alabama, AL _Spring 2020 &rarr; Spring 2021_
-0. **McKenzie S. Chamberlain** University of Alabama, AL _Spring 2020 &rarr; Spring 2023_
-0. **Grace Kiern** University of Alabama, AL _Spring 2020 &rarr; Spring 2023_
-0. **Anna-Grace Price** University of Alabama, AL _Spring 2020 &rarr; Spring 2022_
-0. **Cole A. Kiser** University of Alabama, AL _Spring 2020 &rarr; Spring 2022_
-0. **Michelle Tan** University of Alabama, AL _Spring 2020 &rarr; Spring 2021_
-0. **Tyler Hale** University of Alabama, AL _Spring 2020_
-<!-- Rutgers University -->
-0. **Rohith Kari** Rutgers University, NJ _Summer 2018_
-0. **Eric Chai** Rutgers University, NJ _Summer 2018_
-{: reversed="reversed"}
+0. <li><b>Bushrah Mohamed-Elmabruk Rashrash</b> Grand Valley State University, MI <i>Summer 2024</i></li>
+0. <li><b>Caitlin M. Stanley</b> Athens State University, AL <i>Summer 2024</i></li>
+0. <li><b>Maliya Trevino</b> University of Alabama, AL <i>Summer 2024</i></li>
+0. <li><b>Meghan L. Green</b> University of Alabama, AL <i>Spring 2024 &rarr; Summer 2024</i></li>
+0. <li><b>Ali Moslehi-Nik</b> University of Alabama, AL <i>Spring 2024 &rarr; Summer 2024</i></li>
+0. <li><b>Madeline L. Gruys</b> Bemidji State University, Bemidji, MN <i>Fall 2020 &rarr; Summer 2024</i></li>
+0. <li><b>Bethany C. Lieser</b> Anoka-Ramsey Community College, Cambridge, MN <i>Fall 2020 &rarr; Summer 2024</i></li>
+0. <li><b>Graham M. Jones</b> University of Alabama, AL <i>Summer 2022 &rarr; Spring 2023</i></li>
+0. <li><b>Megan E. Lawson</b> University of Alabama, AL <i>Summer 2022 &rarr; Summer 2024</i></li>
+0. <li><b>Gabriella N. Bickanovsky</b> University of Alabama, AL <i>Summer 2022 &rarr; Spring 2024</i></li>
+0. <li><b>Jamarcus D. Monroe</b> University of Alabama, AL <i>Summer 2022</i></li>
+0. <li><b>Jonah Silverman</b> Muhlenberg College, PA <i>Fall 2021 &rarr; Fall 2022</i></li>
+0. <li><b>Jhilam Dasgupta</b> University of Alabama, AL <i>Summer 2021 &rarr; Spring 2023</i></li>
+0. <li><b>Alyssa C. Koehler**[^alyssackoehler] University of Alabama, AL <i>Summer 2021 &rarr; Summer 2022</i></b> 
+0. <li><b>Ashley E. Morgan</b> University of Alabama, AL <i>Summer 2021 &rarr; Fall 2021</i></li>
+0. <li><b>Ryan Dufur</b> Oklahoma Christian University, OK <i>Summer 2021</i></li>
+0. <li><b>James O'Brien</b> Oklahoma Christian University, OK <i>Summer 2021</i></li>
+0. <li><b>Aidan Long</b> Oklahoma Christian University, OK <i>Summer 2021</i></li>
+0. <li><b>Ethan Abizadeh</b> Yeshiva University, NY <i>Spring 2021</i></li>
+0. <li><b>Annie E. Backlund</b> University of Alabama, AL <i>Spring 2021 &rarr; Spring 2023</i></li>
+0. <li><b>Jordan Albrecht</b> University of Alabama, AL <i>Spring 2021 &rarr; Spring 2023</i></li>
+0. <li><b>Allie J. Miller</b> University of Alabama, AL <i>Spring 2021 &rarr; Fall 2021</i></li>
+0. <li><b>Rachael A. Cowan</b> University of Alabama, AL <i>Fall 2020 &rarr; Fall 2021</i></li>
+0. <li><b>Abigail Ruesy</b> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2021</i></li>
+0. <li><b>Samantha A. Hoffman**[^samanthaahoffman] University of Alabama, AL <i>Fall 2020 &rarr; Spring 2021</i></b> 
+0. <li><b>Sean Shelley-Tremblay</b> University of Alabama, AL <i>Fall 2020 &rarr; Fall 2021</i></li>
+0. <li><b>Ines Martinand</b> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2021</i></li>
+0. <li><b>Abbie A. Giunta</b> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2023</i></li>
+0. <li><b>John M. Yordy</b> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2023</i></li>
+0. <li><b>Leon F. Laskowski**[^leonflaskowski] University of St. Francis, IL <i>Fall 2020 &rarr; Summer 2021</i></b> 
+0. <li><b>Abigail R. Myers**[^abigailrmyers] University of Alabama, AL <i>Spring 2020 &rarr; Summer 2022</i></b> 
+0. <li><b>Robyn Huber</b> Bemidji State University, MN <i>Summer 2020</i></li>
+0. <li><b>Bailey Lose</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2021</i></li>
+0. <li><b>Madison A. Sharp**[^madisonasharp] University of Alabama, AL <i>Spring 2020 &rarr; Spring 2021</i></b> 
+0. <li><b>McKenzie S. Chamberlain</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2023</i></li>
+0. <li><b>Grace Kiern</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2023</i></li>
+0. <li><b>Anna-Grace Price</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2022</i></li>
+0. <li><b>Cole A. Kiser</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2022</i></li>
+0. <li><b>Michelle Tan</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2021</i></li>
+0. <li><b>Tyler Hale</b> University of Alabama, AL <i>Spring 2020</i></li>
+0. <li><b>Rohith Kari</b> Rutgers University, NJ <i>Summer 2018</i></li>
+0. <li><b>Eric Chai</b> Rutgers University, NJ <i>Summer 2018</i></li>
 
 ---
 
