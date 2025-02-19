@@ -39,7 +39,7 @@ There are published articles that have been submitted to a peer-reviewed journal
 
 <ol class="reversed">
 	<li>Pribbenow CM, Harrington D, <b>Rele CP</b>, Sandlin KM,Leung W, Lopatto D, Reed LK. <i>Accessible support at a national scale: the use and value of virtual learning assistants across multiple undergraduate institutions.</i> J Microbiol Biol Educ.0:e00170-24. <a href="https://doi.org/10.1128/jmbe.00170-24" target="_blank" rel="noopener noreferrer">10.1128/jmbe.00170-24</a></li>
-	<li>David Lopatto, S. Catherine Silver Key, Melanie Van Stry, Jamie Siders, Wilson Leung, Katie M. Sandlin, <b>Chinmay P. Rele</b>, The Genomics Education Partnership, Laura K. Reed (2023). <i>Supporting the democratization of science during a pandemic: genomics Course-based Undergraduate Research Experiences (CUREs) as an effective remote learning strategy</i>. Journal of Microbiology & Biology Education [10.1128/jmbe.00039-23](https://doi.org/10.1128/jmbe.00039-23). PMID: [38230306](https://pubmed.ncbi.nlm.nih.gov/38230306/); PMCID: [PMC10790580](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10790580/) </li>
+	<li>David Lopatto, S. Catherine Silver Key, Melanie Van Stry, Jamie Siders, Wilson Leung, Katie M. Sandlin, <b>Chinmay P. Rele</b>, The Genomics Education Partnership, Laura K. Reed (2023). <i>Supporting the democratization of science during a pandemic: genomics Course-based Undergraduate Research Experiences (CUREs) as an effective remote learning strategy</i>. Journal of Microbiology & Biology Education <a href="https://doi.org/10.1128/jmbe.00039-23" target="_blank" rel="noopener noreferrer">10.1128/jmbe.00039-23</a></li>
 </ol>
 
 # Protocols
