@@ -48,7 +48,7 @@ ol.reversed li::before {
 	<li><b>Jamarcus D. Monroe</b> University of Alabama, AL <i>Summer 2022</i></li>
 	<li><b>Jonah Silverman</b> Muhlenberg College, PA <i>Fall 2021 &rarr; Fall 2022</i></li>
 	<li><b>Jhilam Dasgupta</b> University of Alabama, AL <i>Summer 2021 &rarr; Spring 2023</i></li>
-	<li><b>Alyssa C. Koehler</b><sup><a href="#fn1" id="alyssackoehler">[5]</a></sup> University of Alabama, AL <i>Summer 2021 &rarr; Summer 2022</i></li> 
+	<li><b>Alyssa C. Koehler</b><sup><sup><a href="#fn1" id="alyssackoehler">[5]</a></sup> University of Alabama, AL <i>Summer 2021 &rarr; Summer 2022</i></li> 
 	<li><b>Ashley E. Morgan</b> University of Alabama, AL <i>Summer 2021 &rarr; Fall 2021</i></li>
 	<li><b>Ryan Dufur</b> Oklahoma Christian University, OK <i>Summer 2021</i></li>
 	<li><b>James O'Brien</b> Oklahoma Christian University, OK <i>Summer 2021</i></li>
@@ -59,16 +59,16 @@ ol.reversed li::before {
 	<li><b>Allie J. Miller</b> University of Alabama, AL <i>Spring 2021 &rarr; Fall 2021</i></li>
 	<li><b>Rachael A. Cowan</b> University of Alabama, AL <i>Fall 2020 &rarr; Fall 2021</i></li>
 	<li><b>Abigail Ruesy</b> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2021</i></li>
-	<li><b>Samantha A. Hoffman</b><a href="#fn1" id="samanthaahoffman">[4]</a></sup> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2021</i></li> 
+	<li><b>Samantha A. Hoffman</b><sup><a href="#fn1" id="samanthaahoffman">[4]</a></sup> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2021</i></li> 
 	<li><b>Sean Shelley-Tremblay</b> University of Alabama, AL <i>Fall 2020 &rarr; Fall 2021</i></li>
 	<li><b>Ines Martinand</b> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2021</i></li>
 	<li><b>Abbie A. Giunta</b> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2023</i></li>
 	<li><b>John M. Yordy</b> University of Alabama, AL <i>Fall 2020 &rarr; Spring 2023</i></li>
-	<li><b>Leon F. Laskowski</b><a href="#fn1" id="leonflaskowski">[3]</a></sup> University of St. Francis, IL <i>Fall 2020 &rarr; Summer 2021</i></li> 
-	<li><b>Abigail R. Myers</b><a href="#fn1" id="abigailrmyers">[2]</a></sup> University of Alabama, AL <i>Spring 2020 &rarr; Summer 2022</i></li> 
+	<li><b>Leon F. Laskowski</b><sup><a href="#fn1" id="leonflaskowski">[3]</a></sup> University of St. Francis, IL <i>Fall 2020 &rarr; Summer 2021</i></li> 
+	<li><b>Abigail R. Myers</b><sup><a href="#fn1" id="abigailrmyers">[2]</a></sup> University of Alabama, AL <i>Spring 2020 &rarr; Summer 2022</i></li> 
 	<li><b>Robyn Huber</b> Bemidji State University, MN <i>Summer 2020</i></li>
 	<li><b>Bailey Lose</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2021</i></li>
-	<li><b>Madison A. Sharp</b><a href="#fn1" id="madisonasharp">[1]</a></sup> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2021</i></li> 
+	<li><b>Madison A. Sharp</b><sup><a href="#fn1" id="madisonasharp">[1]</a></sup> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2021</i></li> 
 	<li><b>McKenzie S. Chamberlain</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2023</i></li>
 	<li><b>Grace Kiern</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2023</i></li>
 	<li><b>Anna-Grace Price</b> University of Alabama, AL <i>Spring 2020 &rarr; Spring 2022</i></li>
@@ -81,16 +81,9 @@ ol.reversed li::before {
 
 ---
 
-<hr>
 <h3>Footnotes</h3>
-<p id="alyssackoehler"><strong>[5]</strong> This is the first footnote. <a href="#alyssackoehler">↩ Back to text</a></p>
-<p id="samanthaahoffman"><strong>[4]</strong> This is the first footnote. <a href="#samanthaahoffman">↩ Back to text</a></p>
-<p id="leonflaskowski"><strong>[3]</strong> This is the first footnote. <a href="#leonflaskowski">↩ Back to text</a></p>
-<p id="abigailrmyers"><strong>[2]</strong> This is the first footnote. <a href="#abigailrmyers">↩ Back to text</a></p>
-<p id="madisonasharp"><strong>[1]</strong> <i>Current Position</i>: Bioinformatics Specialist at Georgetown University; Georgetown, D.C. <i>2023</i> <a href="#madisonasharp">↩ Back to text</a></p>
-
-[^madisonasharp]: _Current Position_: Bioinformatics Specialist at Georgetown University; Georgetown, D.C. _2023_
-[^abigailrmyers]: _Current Position_: Research Technician, Howard Hughes Medical Institute; Ashburn, VA _2023_
-[^leonflaskowski]: _Current Position_: PULSe Ph.D. Candidate, Lyon Lab; Perdue University, PA _2023_
-[^samanthaahoffman]: _Award(s)_: URCA 2021, 1<sup>st</sup> Place Completed Research 
-[^alyssackoehler]: _Current Position_: Research Specialist, Medical University of South Carolina; Charleston, SC _2023_
+<p id="alyssackoehler"><strong>[5]</strong> <i>Current Position</i>: Research Specialist, Medical University of South Carolina; Charleston, SC <i>2023</i><a href="#alyssackoehler">↩</a></p>
+<p id="samanthaahoffman"><strong>[4]</strong> <i>Award</i>: URCA 2021, 1<sup>st</sup> Place Completed Research<a href="#samanthaahoffman">↩</a></p>
+<p id="leonflaskowski"><strong>[3]</strong> <i>Current Position</i>: PULSe Ph.D. Candidate, Lyon Lab; Perdue University, PA <i>2023</i><a href="#leonflaskowski">↩</a></p>
+<p id="abigailrmyers"><strong>[2]</strong> <i>Current Position</i>: Research Technician, Howard Hughes Medical Institute; Ashburn, VA <i>2023</i><a href="#abigailrmyers">↩</a></p>
+<p id="madisonasharp"><strong>[1]</strong> <i>Current Position</i>: Bioinformatics Specialist at Georgetown University; Georgetown, D.C. <i>2023</i><a href="#madisonasharp">↩</a></p>
