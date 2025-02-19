@@ -8,6 +8,7 @@ ol.reversed li {
   position: relative;
 }
 
+ol.reversed li::before {
   content: counter(reversed-counter, decimal) ". "; /* Insert custom numbering */
   position: absolute;
   left: -2em;
