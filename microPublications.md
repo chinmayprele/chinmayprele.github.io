@@ -63,7 +63,7 @@ Included data are curated and, upon publication, deposited in third party refere
 
 ---
 
-reverse test
+reverse test with internal style classifier
 
 <ol class="reversed">
 	<li> Lose, B<sup>U</sup>; Girard, J; Hayes, J<sup>U</sup>; Weast, L<sup>U</sup>; Minkovsky, N; Justice, S; Vincent JA; Youngblom JJ; Long LJ; <b>Rele CP</b>; Reed, LK (2025). Gene model for the ortholog of <i>eIF4E1</i> in <i>Drosophila yakuba</i>. microPublication Biology. <a href="https://doi.org/10.17912/micropub.biology.001020" target="_blank" rel="noopener noreferrer">10.17912/micropub.biology.001020</a>. </li>
