@@ -46,7 +46,7 @@ Included data are curated and, upon publication, deposited in third party refere
 
 reverse test
 
-<ol reversed>
+<ol class="reversed">
 	<li> Lose, B<sup>U</sup>; Girard, J; Hayes, J<sup>U</sup>; Weast, L<sup>U</sup>; Minkovsky, N; Justice, S; Vincent JA; Youngblom JJ; Long LJ; **Rele CP**; Reed, LK (2025). Gene model for the ortholog of <i>eIF4E1</i> in <i>Drosophila yakuba</i>. microPublication Biology. <a href="https://doi.org/10.17912/micropub.biology.001020" target="_blank" rel="noopener noreferrer">10.17912/micropub.biology.001020</a>. </li>
 	<li> Gruys, ML<sup>U</sup>; Sharp, MA<sup>U</sup>; Lill, Z<sup>U</sup>; Xiong, C<sup>U</sup>; Hark, AT; Youngblom, JJ; Rele, CP; Reed, LK (2025). Gene model for the ortholog of <i>Glys</i> in <i>Drosophila simulans</i>. microPublication Biology. <a href="https://doi.org/10.17912/micropub.biology.001168" target="_blank" rel="noopener noreferrer">10.17912/micropub.biology.001168</a>. </li>
 	<li> Chamberlain, M<sup>U</sup>; Christie, A<sup>U</sup>; Girard, J<sup>U</sup>; Shaver, HM<sup>U</sup>; Long, LJ; Youngblom, JJ; Rele, CP; Reed, LK (2025). Gene model for the ortholog of <i>eIF4E1</i> in <i>Drosophila ananassae</i>. microPublication Biology. <a href="https://doi.org/10.17912/micropub.biology.001026" target="_blank" rel="noopener noreferrer">10.17912/micropub.biology.001026</a>. </li>

@@ -1,0 +1,14 @@
+ol.reversed {
+  counter-reset: reversed-counter;
+}
+
+ol.reversed li {
+  list-style: none; /* Remove default numbering */
+  counter-increment: reversed-counter -1; /* Decrease counter */
+  position: relative;
+}
+
+  content: counter(reversed-counter, decimal) ". "; /* Insert custom numbering */
+  position: absolute;
+  left: -2em;
+}
