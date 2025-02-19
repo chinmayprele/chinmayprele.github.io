@@ -13,8 +13,6 @@ microPublications are currently being included in this list, but may not in the 
 
 # Articles
 
-0. @JMBE "Accessible Support at a National Scale: The Use and Value of Virtual Learning Assistants Across Multiple Undergraduate Institutions" by Christine Pribbenow, D'Andrew Harrington, Chinmay Rele, Katie Sandlin, Wilson Leung, David Lopatto, and Laura Reed. 
-{: reversed="reversed"}
 
 # microPublications
 
