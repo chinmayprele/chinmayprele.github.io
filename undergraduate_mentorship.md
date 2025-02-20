@@ -48,7 +48,7 @@ ol.reversed li::before {
 	<li><b>Jamarcus D. Monroe</b> University of Alabama, AL <i>Summer 2022</i></li>
 	<li><b>Jonah Silverman</b> Muhlenberg College, PA <i>Fall 2021 &rarr; Fall 2022</i></li>
 	<li><b>Jhilam Dasgupta</b> University of Alabama, AL <i>Summer 2021 &rarr; Spring 2023</i></li>
-	<li><b>Alyssa C. Koehler</b><sup><sup><a href="#fn1" id="alyssackoehler">[5]</a></sup> University of Alabama, AL <i>Summer 2021 &rarr; Summer 2022</i></li> 
+	<li><b>Alyssa C. Koehler</b><sup><a href="#fn1" id="alyssackoehler">[5]</a></sup> University of Alabama, AL <i>Summer 2021 &rarr; Summer 2022</i></li> 
 	<li><b>Ashley E. Morgan</b> University of Alabama, AL <i>Summer 2021 &rarr; Fall 2021</i></li>
 	<li><b>Ryan Dufur</b> Oklahoma Christian University, OK <i>Summer 2021</i></li>
 	<li><b>James O'Brien</b> Oklahoma Christian University, OK <i>Summer 2021</i></li>
@@ -79,8 +79,8 @@ ol.reversed li::before {
 	<li><b>Eric Chai</b> Rutgers University, NJ <i>Summer 2018</i></li>
 </ol>
 
----
 
+<hr>
 <h3>Footnotes</h3>
 <p id="alyssackoehler"><strong>[5]</strong> <i>Current Position</i>: Research Specialist, Medical University of South Carolina; Charleston, SC <i>2023</i><a href="#alyssackoehler">↩</a></p>
 <p id="samanthaahoffman"><strong>[4]</strong> <i>Award</i>: URCA 2021, 1<sup>st</sup> Place Completed Research<a href="#samanthaahoffman">↩</a></p>
