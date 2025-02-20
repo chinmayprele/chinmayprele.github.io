@@ -18,7 +18,7 @@ nav_order: 2
 	<dd><a href="https://flygxe.ua.edu">Laura K. Reed</a></dd>
 </dl>
 
-## **The University of Alabama**, Tuscaloosa, AL (_MS - 2024_)
+## **The University of Alabama**, Tuscaloosa, AL (_MS<sub><i>en route</i></sub> - 2024_)
 
 <dl>
 	<dt>Department</dt>
