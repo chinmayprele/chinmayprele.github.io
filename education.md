@@ -18,6 +18,16 @@ nav_order: 2
 	<dd><a href="https://flygxe.ua.edu">Laura K. Reed</a></dd>
 </dl>
 
+## **The University of Alabama**, Tuscaloosa, AL (_MS - 2024_)
+
+<dl>
+	<dt>Department</dt>
+	<dd><a href="https://bsc.ua.edu">Biological Sciences</a></dd>
+	<dt>Advisor</dt>
+	<dd><a href="https://flygxe.ua.edu">Laura K. Reed</a></dd>
+	<dt>Focuses</dt>
+	<dd>Evolution, Population Genetics, Computational Genetics</dd>
+</dl>
 
 ## **Rutgers University**, New Brunswick, NJ (_BA - Cum Laude 2019_)
 
