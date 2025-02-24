@@ -43,7 +43,8 @@ nav_order: 11
 
 <style>
 ol.reversed {
-  counter-reset: reversed-counter; /* JavaScript will set the correct number */
+/*  counter-reset: reversed-counter; /* JavaScript will set the correct number */*/
+  counter-reset: 4; /* JavaScript will set the correct number */
 }
 
 ol.reversed li {
