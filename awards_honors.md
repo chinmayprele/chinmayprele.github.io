@@ -7,7 +7,7 @@ nav_order: 5
 # Awards and Honors
 
 <ol class="reversed">
-	<li><b>Summer Institute Scholarship</b>, Summer Institutes - Biostatistics, University of Washington; WA, USA <i>2022</i></lli>
+	<li><b>Summer Institute Scholarship</b>, Summer Institutes - Biostatistics, University of Washington; WA, USA <i>2022</i></li>
 	<li><b>Summer Institute Scholarship</b>, Summer Institutes - Biostatistics, University of Washington; WA, USA <i>2021</i></li>
 	<li><b>High Departmental Honors</b>, Department of Genetics; Rutgers University, NJ, USA <i>2019</i></li>
 	<li><b>NTU Research Finalist</b>, Nanyang Technical University, Singapore <i>2014</i></li>
