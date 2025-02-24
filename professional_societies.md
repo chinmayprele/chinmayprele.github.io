@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 ---
 
-<ol class="reverse">
+<ol class="reversed">
 	<li><b>Society for Molecular Biology and Evolution</b> <i>2022 &rarr; Present</i></li> 
 	<li><b>Genetics Society of America</b> <i>2019 &rarr; Present</i></li>
 </ol>
