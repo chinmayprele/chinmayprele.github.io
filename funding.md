@@ -67,7 +67,9 @@ ol.reversed li::before {
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll("ol.reversed").forEach(ol => {
-      ol.style.counterReset = reversed-counter ${ol.children.length + 1};
+      // Set the counter-reset to reverse the order of the list numbering
+      ol.style.counterReset = `reversed-counter ${ol.children.length + 1}`;
     });
   });
 </script>
+
