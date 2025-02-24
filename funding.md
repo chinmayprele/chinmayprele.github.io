@@ -44,26 +44,35 @@ nav_order: 11
 
 <style>
 ol.reversed {
-  counter-reset: list-counter; /* Initialize counter */
+  counter-reset: list-counter; /* Initialize the outer counter */
 }
 
-ol.reversed li {
+ol.reversed > li {
   list-style: none;
-  counter-increment: list-counter; /* Increment counter for each list item */
+  counter-increment: list-counter; /* Increment the counter for each item in the outer <ol> */
   position: relative;
 }
 
-ol.reversed li::before {
+ol.reversed > li::before {
   content: counter(list-counter, decimal) ". "; /* Display the counter before the list item */
   position: absolute;
   left: -2em; /* Adjust position of the counter */
+}
+
+ol.reversed li ol {
+  counter-reset: list-counter; /* Reset the counter for any nested <ol> elements */
+}
+
+ol.reversed li ol li {
+  counter-increment: none; /* No counter increment for items inside nested <ol> */
+  list-style: decimal; /* Default numbering style for nested <ol> */
 }
 </style>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll("ol.reversed").forEach(ol => {
-      ol.style.counterReset = `list-counter ${ol.children.length + 1}`; /* Reverse the starting count based on number of list items */
+      ol.style.counterReset = `list-counter ${ol.children.length + 1}`; /* Reset counter for outer <ol> */
     });
   });
 </script>
