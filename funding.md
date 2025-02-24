@@ -43,36 +43,48 @@ nav_order: 11
 	- To study the Genetic Variation in the Repetitive Sequence Content of _D. melanogaster_ using Oxford Nanopore
 
 <style>
+/* Reset the counter for the outer <ol> */
 ol.reversed {
-  counter-reset: list-counter; /* Initialize the outer counter */
+  counter-reset: list-counter; /* Initialize counter */
 }
 
+/* Style for the outer <ol> and its <li> elements */
 ol.reversed > li {
   list-style: none;
-  counter-increment: list-counter; /* Increment the counter for each item in the outer <ol> */
+  counter-increment: list-counter; /* Increment for each item in the outer <ol> */
   position: relative;
 }
 
+/* Add numbering to the outer <ol> items */
 ol.reversed > li::before {
-  content: counter(list-counter, decimal) ". "; /* Display the counter before the list item */
+  content: counter(list-counter, decimal) ". "; /* Display the current number */
   position: absolute;
-  left: -2em; /* Adjust position of the counter */
+  left: -2em;
 }
 
+/* Reset the counter for the nested <ol> */
 ol.reversed li ol {
-  counter-reset: list-counter; /* Reset the counter for any nested <ol> elements */
+  counter-reset: nested-counter; /* Initialize separate counter for nested <ol> */
 }
 
+/* Style for nested <ol> items */
 ol.reversed li ol li {
-  counter-increment: none; /* No counter increment for items inside nested <ol> */
-  list-style: decimal; /* Default numbering style for nested <ol> */
+  list-style: decimal; /* Default numbering for nested <ol> */
+}
+
+/* Optional: If you want the nested lists to have their own independent numbers */
+ol.reversed li ol li::before {
+  content: counter(nested-counter, decimal) ". "; /* Numbering for nested list */
+  position: relative;
+  left: 0;
 }
 </style>
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
+    // Reset the outer <ol> to start from the correct number
     document.querySelectorAll("ol.reversed").forEach(ol => {
-      ol.style.counterReset = `list-counter ${ol.children.length + 1}`; /* Reset counter for outer <ol> */
+      ol.style.counterReset = `list-counter ${ol.children.length + 1}`; /* Start from length + 1 to count down */
     });
   });
 </script>
