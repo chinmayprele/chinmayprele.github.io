@@ -24,6 +24,9 @@ Please feel free to contact me with questions, or if you would like some more in
 <dl>
   <dt>Reed Lab</dt>
   <dd><a href="https://flygxe.ua.edu">flygxe.ua.edu</a></dd>
+  <dt>UA BSC</dt>
+  <dd><a href="https://bsc.ua.edu/graduate-student/chinmay-rele/">University of Alabama Biological Sciences Graduate Students</a></dd>
+
 </dl>
 
 # Contact Information
