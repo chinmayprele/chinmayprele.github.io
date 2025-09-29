@@ -7,7 +7,8 @@ parent: Research Products
 # Presentations
 
 <ol class="reversed">
-	<li><i>Understanding The Evolutionary Dynamics Of Transposable Elements in Drosophila Via de novo Identification and Classification</i>, Rutgers Honors Day (2019)</li>
+  <li><i>Understanding The Evolutionary Dynamics Of Transposable Elements in Drosophila Via de novo Identification and Classification</i>, Rutgers Honors Day (2019)</li>
+	<li><i>mucroPublication Futures for Multi-Orhtolog Publications</i>, GEP Faculty Workship (2023)</li>
 
 </ol>
 
