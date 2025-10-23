@@ -2,9 +2,6 @@
 title: Instructions for a Bad Day
 layout: default
 parent: Media
-
-has_children: false
-has_toc: true
 ---
 
 # Instructions for a Bad Day
@@ -59,7 +56,7 @@ Make us comprehend the urgency of your crisis.
 Silence left to its own devices, breed’s silence.
 
 So speak and be heard. 
-One word after the next, express yourself and put your life into context – if you find that no one is listening, be loud. 
+One word after the next, <b>express yourself and put your life into context</b> – if you find that no one is listening, be loud. 
 Make noise. 
 Stand in poise and be open. 
 Hope in these situations is not enough and you will need someone to lean on. 
@@ -72,11 +69,11 @@ Admit to the bad days, the impossible nights.
 Listen to the insights of those who have been there, but have come back. 
 They’ll tell you; you can stack misery, you can pack despair, you can even wear your sorrow – but come tomorrow you must change your clothes.
 
-Everyone knows pain. 
-We are not meant to carry it forever. 
+<b>Everyone knows pain. 
+We are not meant to carry it forever</b>. 
 We were never meant to hold it so closely, so be certain in the belief that what pain belongs to now will belong soon to then. 
-That when someone asks you how was your day, realize that for some of us – it’s the only way we know how to say, “Be calm. 
-Loosen your grip, opening each palm, slowly now – let go.
+That when someone asks you how was your day, realize that for some of us – it’s the only way we know how to say, 
+“Be calm. Loosen your grip, opening each palm, slowly now – let go.""
 
 <link href="/css/lightbox.css" rel="stylesheet" />
 <script type="text/javascript" src="/js/lightbox-plus-jquery.js"></script>
