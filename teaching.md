@@ -7,7 +7,13 @@ nav_order: 6
 
 # The University of Alabama
 
-## 2024 Spring
+## 2025 Fall
+
+0. BSC115 Intro to Biology Lab 1 Section 23
+0. BSC115 Intro to Biology Lab 1 Section 41
+{: reversed="reversed"}
+
+## 2025 Spring
 
 0. BSC117 Intro to Biology Lab 2 Section 5
 0. BSC117 Intro to Biology Lab 2 Section 6
