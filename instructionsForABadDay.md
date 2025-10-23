@@ -2,11 +2,13 @@
 title: Instructions for a Bad Day
 layout: default
 parent: Media
+
+has_children: false
+has_toc: true
 ---
 
 # Instructions for a Bad Day
 <p align="right"><i>Shane Koyczan</i></p>
-
 
 There will be bad days. 
 Be calm. 
