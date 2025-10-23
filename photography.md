@@ -8,9 +8,9 @@ has_toc: true
 ---
 
 I am recently getting into photohraphy as a hobby, and I have attached some images that I took below.
-If you would like to view them, navigate to the page below, or [follow this link in a new tab](https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4).
+If you would like to view them, navigate to the page below, or [follow this link in a new tab](https://sparkly-block-6f1.notion.site/27c45c5b96b581c5a437cd953fd145c1?v=27c45c5b96b581339e01000c25814a2a&source=copy_link).
 
-[Navigate to Photography Website](https://cprele.notion.site/1177a331f7d2806bad22d5d60b9c714c?v=8f5724658b4441c9a37f3a66e65cade4&pvs=4){: .btn}
+[Navigate to Photography Website](https://sparkly-block-6f1.notion.site/27c45c5b96b581c5a437cd953fd145c1?v=27c45c5b96b581339e01000c25814a2a&source=copy_link){: .btn}
 
 <!-- 
 

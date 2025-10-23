@@ -4,7 +4,7 @@ layout: default
 parent: Media
 
 has_children: false
-has_toc: true
+has_toc: false
 ---
 
 # Instructions for a Bad Day
