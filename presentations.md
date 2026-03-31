@@ -7,6 +7,7 @@ parent: Research Products
 # Presentations
 
 <ol class="reversed">
+  <li><i>Parallel Evolution of Coding and Regulatory Regions Correlated with Network Topology</i>, Keynote Speaker, <a href="{{ '/assets/pdfs/MISC/GEP_science_seminar.png' | relative_url }}" target="_blank" rel="noopener noreferrer">GEP Science Research Seminar Series (2026)</a></li>
   <li><i>Network Evolution: Evolution of Protein Networks and Genomic Conservation</i>, Departmental Seminar Series, University of Alabama, Biological Sciences (2025)</li>
   <li><i>Network Evolution: How Networks Evolve and Constrain Sequence Evolution</i>, Keynote Speaker, <a href="{{ '/assets/pdfs/MISC/GEP.SERNM.fall2025.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">GEP Southeast Regional Node Meeting (2025)</a></li>
   <li><i>Understanding The Evolutionary Dynamics Of Transposable Elements in Drosophila Via de novo Identification and Classification</i>, Rutgers Honors Day (2019)</li>
