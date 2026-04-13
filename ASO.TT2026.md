@@ -6,7 +6,7 @@ nav_order: 101
 
 # ASO Table Tennis Links
 
-[Event Page](https://challonge.com/events/ASO2026){: .btn}
+[Event Page](https://challonge.com/events/ASO2026){: .btn target="_blank" rel="noopener" }
 
 ## Mens Events
 [MS 50-64](https://challonge.com/67bva6aa){: .btn}
