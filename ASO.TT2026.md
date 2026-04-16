@@ -10,11 +10,11 @@ nav_order: 101
 [Tournaments Page](https://challonge.com/events/ASO2026/tournaments){: .btn target="_blank" rel="noopener" }
 
 ## Mens Events
-[MS 50-64](https://challonge.com/67bva6aa){: .btn target="_blank" rel="noopener" }
-[MS 65-69](https://challonge.com/vsw6w9d0){: .btn target="_blank" rel="noopener" }
-[MS 70-74](https://challonge.com/mf190qxq){: .btn target="_blank" rel="noopener" }
-[MS 75-79](https://challonge.com/es4lntr9){: .btn target="_blank" rel="noopener" }
-[MS 80-84](https://challonge.com/ylg6y5bv){: .btn target="_blank" rel="noopener" }
+- [MS 50-64](https://challonge.com/67bva6aa){: .btn target="_blank" rel="noopener" } ~9 matches
+- [MS 65-69](https://challonge.com/vsw6w9d0){: .btn target="_blank" rel="noopener" } ~9 matches
+- [MS 70-74](https://challonge.com/mf190qxq){: .btn target="_blank" rel="noopener" } ~19 matches
+- [MS 75-79](https://challonge.com/es4lntr9){: .btn target="_blank" rel="noopener" } ~12 matches
+- [MS 80-84](https://challonge.com/ylg6y5bv){: .btn target="_blank" rel="noopener" } ~4 matches
 
 ## Womens Events
 [WS 50-64](https://challonge.com/3by1u8ex){: .btn target="_blank" rel="noopener" }
