@@ -17,24 +17,25 @@ nav_order: 101
 - [MS 80-84](https://challonge.com/ylg6y5bv){: .btn target="_blank" rel="noopener" } ~4 matches
 
 ## Womens Events
-[WS 50-64](https://challonge.com/3by1u8ex){: .btn target="_blank" rel="noopener" }
-[WS 65-84](https://challonge.com/1abujx87){: .btn target="_blank" rel="noopener" }
+- [WS 50-64](https://challonge.com/3by1u8ex){: .btn target="_blank" rel="noopener" } ~7 matches
+- [WS 65-84](https://challonge.com/1abujx87){: .btn target="_blank" rel="noopener" } ~7 matches
 
 
 ## Doubles Events
 
 ### Mens Doubles
-[MD 55-64](https://challonge.com/j7ax55wl){: .btn target="_blank" rel="noopener" }
-[MD 65-69](https://challonge.com/28tdy8yc){: .btn target="_blank" rel="noopener" }
-[MD 70-74](https://challonge.com/ff5d7qwf){: .btn target="_blank" rel="noopener" }
-[MD 75-84](https://challonge.com/gp40cthd){: .btn target="_blank" rel="noopener" }
+- [MD 55-64](https://challonge.com/j7ax55wl){: .btn target="_blank" rel="noopener" } ~2 matches
+- [MD 65-69](https://challonge.com/28tdy8yc){: .btn target="_blank" rel="noopener" } ~4 matches
+- [MD 70-74](https://challonge.com/ff5d7qwf){: .btn target="_blank" rel="noopener" } ~5 matches
+- [MD 75-84](https://challonge.com/gp40cthd){: .btn target="_blank" rel="noopener" } ~1 matches
 
 ### Womens Doubles
-[WD 60-69](https://challonge.com/dll0b5au){: .btn target="_blank" rel="noopener" }
-[WD 55-59](https://challonge.com/5kbgfmw8){: .btn target="_blank" rel="noopener" }
+- [WD 55-59](https://challonge.com/5kbgfmw8){: .btn target="_blank" rel="noopener" } ~1 matches
+- [WD 60-69](https://challonge.com/dll0b5au){: .btn target="_blank" rel="noopener" } ~4 matches
+
 
 ### Mixed Doubles
-[XD 50-59](https://challonge.com/3gg5uyr9){: .btn target="_blank" rel="noopener" }
-[XD 60-64](https://challonge.com/cyn8e7vx){: .btn target="_blank" rel="noopener" }
-[XD 65-69](https://challonge.com/jchrttl4){: .btn target="_blank" rel="noopener" }
-[XD 70-84](https://challonge.com/l0mxnwhf){: .btn target="_blank" rel="noopener" }
+- [XD 50-59](https://challonge.com/3gg5uyr9){: .btn target="_blank" rel="noopener" } ~5 matches
+- [XD 60-64](https://challonge.com/cyn8e7vx){: .btn target="_blank" rel="noopener" } ~4 matches
+- [XD 65-69](https://challonge.com/jchrttl4){: .btn target="_blank" rel="noopener" } ~4 matches
+- [XD 70-84](https://challonge.com/l0mxnwhf){: .btn target="_blank" rel="noopener" } ~5 matches
