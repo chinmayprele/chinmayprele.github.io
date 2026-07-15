@@ -7,6 +7,7 @@ parent: Research Products
 # Presentations
 
 <ol class="reversed">
+  <li><i>Network Evolution for High Performance Computing</i>, Speaker, <a href="{{ '/assets/pdfs/MISC/2026-HPC_summer_series.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">HPC Summer Series</a>, University of Alabam (2026)</li>
   <li><i>Parallel Evolution of Coding and Regulatory Regions Correlated with Network Topology</i>, Keynote Speaker, <a href="{{ '/assets/pdfs/MISC/GEP_science_seminar.png' | relative_url }}" target="_blank" rel="noopener noreferrer">GEP Science Research Seminar Series (2026)</a></li>
   <li><i>Network Evolution: Evolution of Protein Networks and Genomic Conservation</i>, Departmental Seminar Series, University of Alabama, Biological Sciences (2025)</li>
   <li><i>Network Evolution: How Networks Evolve and Constrain Sequence Evolution</i>, Keynote Speaker, <a href="{{ '/assets/pdfs/MISC/GEP.SERNM.fall2025.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">GEP Southeast Regional Node Meeting (2025)</a></li>
